@@ -8,5 +8,5 @@
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://github.com/cyteon)
 
 
-**Im new to:** <br>
+**I have used:** <br>
 [![My Skills](https://skillicons.dev/icons?i=rust,java)](https://github.com/cyteon)
