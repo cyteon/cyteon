@@ -10,3 +10,6 @@
 
 **I have used:** <br>
 [![My Skills](https://skillicons.dev/icons?i=rust)](https://github.com/cyteon)
+
+**I want to learn:** <br>
+[![My Skills](https://skillicons.dev/icons?i=lua,defold)](https://github.com/cyteon)
