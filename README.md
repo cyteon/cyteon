@@ -11,4 +11,4 @@
 [![My Skills](https://skillicons.dev/icons?i=rust)](https://github.com/cyteon)
 
 **I want to try:** <br>
-[![My Skills](https://skillicons.dev/icons?i=lua)](https://github.com/cyteon)
+[![My Skills](https://skillicons.dev/icons?i=lua,gleam)](https://github.com/cyteon)
