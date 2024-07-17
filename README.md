@@ -12,3 +12,5 @@
 
 **I want to try:** <br>
 [![My Skills](https://skillicons.dev/icons?i=lua,gleam)](https://github.com/cyteon)
+
+![Top Langs](https://cyteon-github-readme-stats.vercel.app/api/top-langs/?username=cyteon&layout=compact&exclude_repo=github-readme-stats,forge-serverlogger&card_width=500)
