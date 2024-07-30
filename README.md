@@ -13,5 +13,5 @@
 **I want to try:** <br>
 [![My Skills](https://skillicons.dev/icons?i=lua,ruby)](https://github.com/cyteon)
 
-![Top Langs](https://cyteon-github-readme-stats.vercel.app/api/top-langs/?username=cyteon&layout=compact&exclude_repo=github-readme-stats,forge-serverlogger&card_width=500&langs_count=8)
+![Top Langs](https://cyteon-github-readme-stats.vercel.app/api/top-langs/?username=cyteon&layout=donut-vertical&exclude_repo=github-readme-stats,forge-serverlogger&langs_count=8)
 
