@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java)](https://github.com/cyteon)
 
 **I want to try:** <br>
-[![My Skills](https://skillicons.dev/icons?i=lua,ruby,bevy,pytorch)](https://github.com/cyteon)
+[![My Skills](https://skillicons.dev/icons?i=lua,bevy,pytorch,cpp,unreal)](https://github.com/cyteon)
 
 ![Top Langs](https://cyteon-github-readme-stats.vercel.app/api/top-langs/?username=cyteon&layout=donut-vertical&exclude_repo=github-readme-stats,forge-serverlogger&langs_count=8)
 
