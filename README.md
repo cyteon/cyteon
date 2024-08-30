@@ -5,10 +5,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,mongodb,tailwindcss,linux,vercel,go)](https://github.com/cyteon)
 
 **Im learning:** <br>
-[![My Skills](https://skillicons.dev/icons?i=cs,firebase,rust,unreal)](https://github.com/cyteon)
+[![My Skills](https://skillicons.dev/icons?i=cs,firebase,unreal,ts)](https://github.com/cyteon)
 
 **I have used:** <br>
-[![My Skills](https://skillicons.dev/icons?i=java,react)](https://github.com/cyteon)
+[![My Skills](https://skillicons.dev/icons?i=java,react,rust)](https://github.com/cyteon)
 
 **I want to try:** <br>
 [![My Skills](https://skillicons.dev/icons?i=zig,bevy,pytorch,cpp)](https://github.com/cyteon)
