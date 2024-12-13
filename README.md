@@ -2,7 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=godot,py,svelte)](https://github.com/cyteon)
 
 **Im OK with:** <br>
-[![My Skills](https://skillicons.dev/icons?i=js,mongodb,tailwindcss,linux,vercel,go,ts)](https://github.com/cyteon)
+[![My Skills](https://skillicons.dev/icons?i=js,mongodb,tailwindcss,linux,vercel,go,ts,solidjs)](https://github.com/cyteon)
 
 **Im learning:** <br>
 [![My Skills](https://skillicons.dev/icons?i=cs,unreal,rust,nextjs,react)](https://github.com/cyteon)
