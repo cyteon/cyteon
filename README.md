@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,mongodb,tailwindcss,linux,vercel,go,ts,solidjs)](https://github.com/cyteon)
 
 **Im learning:** <br>
-[![My Skills](https://skillicons.dev/icons?i=cs,unreal,rust,nextjs,react)](https://github.com/cyteon)
+[![My Skills](https://skillicons.dev/icons?i=cs,unreal,rust,nextjs,react,tauri)](https://github.com/cyteon)
 
 **I have used:** <br>
 [![My Skills](https://skillicons.dev/icons?i=java,firebase)](https://github.com/cyteon)
