@@ -14,7 +14,7 @@
 - [Cyteon/signal-tui](https://github.com/Cyteon/signal-tui) - An signal terminal ui, using signal-cli to communicate with signal, and sqlite to store messages.
 - [Cyteon/polyworld](https://github.com/Cyteon/polyworld) - 
 - [Cyteon/flux](https://github.com/Cyteon/flux) - Yet another self-hostable media server
-- [Cyteon/grass-clicker](https://github.com/Cyteon/grass-clicker) - 
+- [Cyteon/scrapyard-calculator](https://github.com/Cyteon/scrapyard-calculator) - 
 
 #### 🔨 My recent Pull Requests
 
@@ -22,4 +22,3 @@
 - [Add the discord_gleam library](https://github.com/apacheli/discord-api-libs/pull/74) on [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) (1 week ago)
 - [I was on wrong branch](https://github.com/Cyteon/modu/pull/23) on [Cyteon/modu](https://github.com/Cyteon/modu) (2 weeks ago)
 - [Add the library discord_gleam](https://github.com/gleam-lang/awesome-gleam/pull/214) on [gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam) (2 weeks ago)
-- [Merge release onto main after some testing](https://github.com/Cyteon/polyworld/pull/6) on [Cyteon/polyworld](https://github.com/Cyteon/polyworld) (3 weeks ago)
