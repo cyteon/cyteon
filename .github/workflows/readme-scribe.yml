@@ -18,6 +18,7 @@ jobs:
           docker run --rm \
             -v ${{ github.workspace }}:/data \
             -w /data \
+            -e GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} \
             cyteon/markscribe \
             -write README.md templates/README.md.tpl
 
