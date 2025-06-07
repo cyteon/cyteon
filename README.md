@@ -20,5 +20,6 @@
 
 - [Release v1.0.0](https://github.com/Cyteon/discord_gleam/pull/11) on [Cyteon/discord_gleam](https://github.com/Cyteon/discord_gleam) (1 day ago)
 - [Add the discord_gleam library](https://github.com/apacheli/discord-api-libs/pull/74) on [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) (1 week ago)
-- [I was on wrong branch](https://github.com/Cyteon/modu/pull/23) on [Cyteon/modu](https://github.com/Cyteon/modu) (2 weeks ago)
-- [Add the library discord_gleam](https://github.com/gleam-lang/awesome-gleam/pull/214) on [gleam-lang/awesome-gleam](https://github.com/gleam-lang/awesome-gleam) (2 weeks ago)
+- [Remove base paths](https://github.com/Cyteon/modu/pull/23) on [Cyteon/modu](https://github.com/Cyteon/modu) (2 weeks ago)
+- [Revert "Update updates_controller.rb"](https://github.com/hackclub/journey/pull/52) on [hackclub/journey](https://github.com/hackclub/journey) (2 weeks ago)
+- [[Fix] Change the margin on the sidebar icons to not create unexpected margin](https://github.com/hackclub/journey/pull/49) on [hackclub/journey](https://github.com/hackclub/journey) (2 weeks ago)
