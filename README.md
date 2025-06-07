@@ -3,18 +3,18 @@
 #### 👀 What have i been working on recently?
 
 - [Cyteon/cyteon](https://github.com/Cyteon/cyteon) -  (today)
-- [Cyteon/fractal](https://github.com/Cyteon/fractal) -  (1 day ago)
+- [Cyteon/fractal](https://github.com/Cyteon/fractal) - A loops.so alternative, currently in early development (today)
 - [Cyteon/doubloon-leaderboard](https://github.com/Cyteon/doubloon-leaderboard) - A doubloons leaderboard for HighSeas by HackClub (1 day ago)
 - [Cyteon/the-watcher](https://github.com/Cyteon/the-watcher) - An uptime monitor built in SolidJS. Batteries Included (2 days ago)
 - [hcgov/hackpines](https://github.com/hcgov/hackpines) -  (6 days ago)
 
 #### 🌱 My latest projects
 
-- [Cyteon/fractal](https://github.com/Cyteon/fractal) - 
+- [Cyteon/fractal](https://github.com/Cyteon/fractal) - A loops.so alternative, currently in early development
 - [Cyteon/signal-tui](https://github.com/Cyteon/signal-tui) - An signal terminal ui, using signal-cli to communicate with signal, and sqlite to store messages.
-- [Cyteon/polyworld](https://github.com/Cyteon/polyworld) - 
+- [Cyteon/polyworld](https://github.com/Cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage. 
 - [Cyteon/flux](https://github.com/Cyteon/flux) - Yet another self-hostable media server
-- [Cyteon/scrapyard-calculator](https://github.com/Cyteon/scrapyard-calculator) - 
+- [Cyteon/scrapyard-calculator](https://github.com/Cyteon/scrapyard-calculator) - Low-quality calculator that shouldnt exist
 
 #### 🔨 My recent Pull Requests
 
