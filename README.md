@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix wrong wording if less than 2 projects globally](https://github.com/hackclub/journey/pull/78) on [hackclub/journey](https://github.com/hackclub/journey) (today)
 - [Release v1.0.0](https://github.com/cyteon/discord_gleam/pull/11) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (3 days ago)
 - [Add the discord_gleam library](https://github.com/apacheli/discord-api-libs/pull/74) on [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) (1 week ago)
 - [Remove base paths](https://github.com/cyteon/modu/pull/23) on [cyteon/modu](https://github.com/cyteon/modu) (2 weeks ago)
 - [Revert "Update updates_controller.rb"](https://github.com/hackclub/journey/pull/52) on [hackclub/journey](https://github.com/hackclub/journey) (3 weeks ago)
-- [[Fix] Change the margin on the sidebar icons to not create unexpected margin](https://github.com/hackclub/journey/pull/49) on [hackclub/journey](https://github.com/hackclub/journey) (3 weeks ago)
