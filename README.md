@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (today)
 - [cyteon/blog](https://github.com/cyteon/blog) -  (today)
+- [hackclub/journey](https://github.com/hackclub/journey) -  (today)
+- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (today)
 - [cyteon/fractal](https://github.com/cyteon/fractal) - A loops.so alternative, currently in early development (4 days ago)
 - [cyteon/doubloon-leaderboard](https://github.com/cyteon/doubloon-leaderboard) - A doubloons leaderboard for HighSeas by HackClub (5 days ago)
-- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS. Batteries Included (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove the other button to create projects](https://github.com/hackclub/journey/pull/81) on [hackclub/journey](https://github.com/hackclub/journey) (today)
+- [Remove project creation](https://github.com/hackclub/journey/pull/80) on [hackclub/journey](https://github.com/hackclub/journey) (today)
 - [Fix wrong wording if less than 2 projects globally](https://github.com/hackclub/journey/pull/78) on [hackclub/journey](https://github.com/hackclub/journey) (2 days ago)
 - [Release v1.0.0](https://github.com/cyteon/discord_gleam/pull/11) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (5 days ago)
 - [Add the discord_gleam library](https://github.com/apacheli/discord-api-libs/pull/74) on [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) (1 week ago)
-- [Remove base paths](https://github.com/cyteon/modu/pull/23) on [cyteon/modu](https://github.com/cyteon/modu) (3 weeks ago)
-- [Revert "Update updates_controller.rb"](https://github.com/hackclub/journey/pull/52) on [hackclub/journey](https://github.com/hackclub/journey) (3 weeks ago)
