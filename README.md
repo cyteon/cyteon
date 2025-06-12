@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/blog](https://github.com/cyteon/blog) -  (today)
 - [cyteon/assets](https://github.com/cyteon/assets) -  (today)
-- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (1 day ago)
+- [cyteon/blog](https://github.com/cyteon/blog) -  (today)
 - [hackclub/journey](https://github.com/hackclub/journey) -  (1 day ago)
+- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (1 day ago)
 - [cyteon/fractal](https://github.com/cyteon/fractal) - A loops.so alternative, currently in early development (5 days ago)
 
 #### 🌱 My latest projects
