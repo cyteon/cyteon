@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (1 day ago)
 - [cyteon/blog](https://github.com/cyteon/blog) -  (1 day ago)
+- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (1 day ago)
 - [hackclub/journey](https://github.com/hackclub/journey) -  (1 day ago)
 - [cyteon/fractal](https://github.com/cyteon/fractal) - A loops.so alternative, currently in early development (5 days ago)
 - [cyteon/doubloon-leaderboard](https://github.com/cyteon/doubloon-leaderboard) - A doubloons leaderboard for HighSeas by HackClub (6 days ago)
