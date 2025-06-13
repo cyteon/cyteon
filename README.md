@@ -4,8 +4,8 @@
 
 - [cyteon/blog](https://github.com/cyteon/blog) -  (today)
 - [cyteon/assets](https://github.com/cyteon/assets) -  (1 day ago)
-- [hackclub/journey](https://github.com/hackclub/journey) -  (2 days ago)
 - [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (2 days ago)
+- [hackclub/journey](https://github.com/hackclub/journey) -  (2 days ago)
 - [cyteon/fractal](https://github.com/cyteon/fractal) - A loops.so alternative, currently in early development (6 days ago)
 
 #### 🌱 My latest projects
