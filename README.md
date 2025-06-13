@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/blog](https://github.com/cyteon/blog) -  (today)
-- [cyteon/assets](https://github.com/cyteon/assets) -  (today)
-- [hackclub/journey](https://github.com/hackclub/journey) -  (1 day ago)
-- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (1 day ago)
-- [cyteon/fractal](https://github.com/cyteon/fractal) - A loops.so alternative, currently in early development (5 days ago)
+- [cyteon/blog](https://github.com/cyteon/blog) -  (1 day ago)
+- [cyteon/assets](https://github.com/cyteon/assets) -  (1 day ago)
+- [hackclub/journey](https://github.com/hackclub/journey) -  (2 days ago)
+- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (2 days ago)
+- [cyteon/fractal](https://github.com/cyteon/fractal) - A loops.so alternative, currently in early development (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove the other button to create projects](https://github.com/hackclub/journey/pull/81) on [hackclub/journey](https://github.com/hackclub/journey) (1 day ago)
-- [Remove project creation](https://github.com/hackclub/journey/pull/80) on [hackclub/journey](https://github.com/hackclub/journey) (1 day ago)
-- [Fix wrong wording if less than 2 projects globally](https://github.com/hackclub/journey/pull/78) on [hackclub/journey](https://github.com/hackclub/journey) (3 days ago)
-- [Release v1.0.0](https://github.com/cyteon/discord_gleam/pull/11) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (6 days ago)
+- [Remove the other button to create projects](https://github.com/hackclub/journey/pull/81) on [hackclub/journey](https://github.com/hackclub/journey) (2 days ago)
+- [Remove project creation](https://github.com/hackclub/journey/pull/80) on [hackclub/journey](https://github.com/hackclub/journey) (2 days ago)
+- [Fix wrong wording if less than 2 projects globally](https://github.com/hackclub/journey/pull/78) on [hackclub/journey](https://github.com/hackclub/journey) (4 days ago)
+- [Release v1.0.0](https://github.com/cyteon/discord_gleam/pull/11) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (1 week ago)
 - [Add the discord_gleam library](https://github.com/apacheli/discord-api-libs/pull/74) on [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) (1 week ago)
