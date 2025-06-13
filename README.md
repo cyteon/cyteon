@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/blog](https://github.com/cyteon/blog) -  (1 day ago)
+- [cyteon/blog](https://github.com/cyteon/blog) -  (today)
 - [cyteon/assets](https://github.com/cyteon/assets) -  (1 day ago)
 - [hackclub/journey](https://github.com/hackclub/journey) -  (2 days ago)
 - [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (2 days ago)
