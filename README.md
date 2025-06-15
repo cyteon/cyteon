@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (today)
 - [cyteon/blog](https://github.com/cyteon/blog) -  (2 days ago)
 - [cyteon/assets](https://github.com/cyteon/assets) -  (3 days ago)
 - [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (4 days ago)
 - [hackclub/journey](https://github.com/hackclub/journey) -  (4 days ago)
-- [cyteon/fractal](https://github.com/cyteon/fractal) - A loops.so alternative, currently in early development (1 week ago)
 
 #### 🌱 My latest projects
 
