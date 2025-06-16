@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/som-lb](https://github.com/cyteon/som-lb) -  (today)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 day ago)
 - [cyteon/blog](https://github.com/cyteon/blog) -  (3 days ago)
 - [cyteon/assets](https://github.com/cyteon/assets) -  (4 days ago)
 - [hackclub/journey](https://github.com/hackclub/journey) -  (5 days ago)
-- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (5 days ago)
 
 #### 🌱 My latest projects
 
