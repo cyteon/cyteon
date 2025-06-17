@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (today)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 day ago)
-- [cyteon/blog](https://github.com/cyteon/blog) -  (3 days ago)
-- [cyteon/assets](https://github.com/cyteon/assets) -  (4 days ago)
-- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (5 days ago)
+- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (1 day ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (2 days ago)
+- [cyteon/blog](https://github.com/cyteon/blog) -  (4 days ago)
+- [cyteon/assets](https://github.com/cyteon/assets) -  (5 days ago)
+- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove the other button to create projects](https://github.com/hackclub/journey/pull/81) on [hackclub/journey](https://github.com/hackclub/journey) (5 days ago)
-- [Remove project creation](https://github.com/hackclub/journey/pull/80) on [hackclub/journey](https://github.com/hackclub/journey) (5 days ago)
+- [Remove the other button to create projects](https://github.com/hackclub/journey/pull/81) on [hackclub/journey](https://github.com/hackclub/journey) (6 days ago)
+- [Remove project creation](https://github.com/hackclub/journey/pull/80) on [hackclub/journey](https://github.com/hackclub/journey) (6 days ago)
 - [Fix wrong wording if less than 2 projects globally](https://github.com/hackclub/journey/pull/78) on [hackclub/journey](https://github.com/hackclub/journey) (1 week ago)
 - [Release v1.0.0](https://github.com/cyteon/discord_gleam/pull/11) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (1 week ago)
 - [Add the discord_gleam library](https://github.com/apacheli/discord-api-libs/pull/74) on [apacheli/discord-api-libs](https://github.com/apacheli/discord-api-libs) (2 weeks ago)
