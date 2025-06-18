@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS. Batteries Included (today)
 - [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (1 day ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (3 days ago)
 - [cyteon/blog](https://github.com/cyteon/blog) -  (5 days ago)
 - [cyteon/assets](https://github.com/cyteon/assets) -  (6 days ago)
-- [hackclub/journey](https://github.com/hackclub/journey) -  (1 week ago)
 
 #### 🌱 My latest projects
 
