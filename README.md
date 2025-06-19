@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS. Batteries Included (today)
-- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (1 day ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (3 days ago)
-- [cyteon/blog](https://github.com/cyteon/blog) -  (5 days ago)
-- [cyteon/assets](https://github.com/cyteon/assets) -  (6 days ago)
+- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS. Batteries Included (1 day ago)
+- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (2 days ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (4 days ago)
+- [cyteon/blog](https://github.com/cyteon/blog) -  (6 days ago)
+- [cyteon/assets](https://github.com/cyteon/assets) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add Summer of Making](https://github.com/hackclub/YSWS-Catalog/pull/89) on [hackclub/YSWS-Catalog](https://github.com/hackclub/YSWS-Catalog) (today)
+- [Add Summer of Making](https://github.com/hackclub/YSWS-Catalog/pull/89) on [hackclub/YSWS-Catalog](https://github.com/hackclub/YSWS-Catalog) (1 day ago)
 - [Remove the other button to create projects](https://github.com/hackclub/journey/pull/81) on [hackclub/journey](https://github.com/hackclub/journey) (1 week ago)
 - [Remove project creation](https://github.com/hackclub/journey/pull/80) on [hackclub/journey](https://github.com/hackclub/journey) (1 week ago)
 - [Fix wrong wording if less than 2 projects globally](https://github.com/hackclub/journey/pull/78) on [hackclub/journey](https://github.com/hackclub/journey) (1 week ago)
