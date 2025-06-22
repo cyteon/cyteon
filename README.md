@@ -2,19 +2,19 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (today)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 day ago)
 - [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS. Batteries Included (2 days ago)
 - [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (5 days ago)
 - [cyteon/blog](https://github.com/cyteon/blog) -  (1 week ago)
-- [cyteon/assets](https://github.com/cyteon/assets) -  (1 week ago)
 
 #### 🌱 My latest projects
 
+- [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte
 - [cyteon/fractal](https://github.com/cyteon/fractal) - A loops.so alternative, currently in early development
 - [cyteon/signal-tui](https://github.com/cyteon/signal-tui) - An signal terminal ui, using signal-cli to communicate with signal, and sqlite to store messages.
 - [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage. 
 - [cyteon/flux](https://github.com/cyteon/flux) - Yet another self-hostable media server
-- [cyteon/scrapyard-calculator](https://github.com/cyteon/scrapyard-calculator) - Low-quality calculator that shouldnt exist
 
 #### 🔨 My recent Pull Requests
 
