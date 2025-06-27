@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (1 day ago)
+- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (today)
 - [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (1 day ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (6 days ago)
 - [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS. Batteries Included (1 week ago)
@@ -11,10 +11,10 @@
 #### 🌱 My latest projects
 
 - [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte
+- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com
 - [cyteon/fractal](https://github.com/cyteon/fractal) - A loops.so alternative, currently in early development
 - [cyteon/signal-tui](https://github.com/cyteon/signal-tui) - An signal terminal ui, using signal-cli to communicate with signal, and sqlite to store messages.
 - [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage. 
-- [cyteon/flux](https://github.com/cyteon/flux) - Yet another self-hostable media server
 
 #### 🔨 My recent Pull Requests
 
