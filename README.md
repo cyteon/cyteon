@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Adding som-lb.hackclub.com](https://github.com/hackclub/dns/pull/1822) on [hackclub/dns](https://github.com/hackclub/dns) (today)
 - [Add Summer of Making](https://github.com/hackclub/YSWS-Catalog/pull/89) on [hackclub/YSWS-Catalog](https://github.com/hackclub/YSWS-Catalog) (1 week ago)
 - [Remove the other button to create projects](https://github.com/hackclub/journey/pull/81) on [hackclub/journey](https://github.com/hackclub/journey) (2 weeks ago)
 - [Remove project creation](https://github.com/hackclub/journey/pull/80) on [hackclub/journey](https://github.com/hackclub/journey) (2 weeks ago)
 - [Fix wrong wording if less than 2 projects globally](https://github.com/hackclub/journey/pull/78) on [hackclub/journey](https://github.com/hackclub/journey) (2 weeks ago)
-- [Release v1.0.0](https://github.com/cyteon/discord_gleam/pull/11) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (3 weeks ago)
