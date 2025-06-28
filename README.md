@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Adding som-lb.hackclub.com](https://github.com/hackclub/dns/pull/1822) on [hackclub/dns](https://github.com/hackclub/dns) (today)
+- [Adding lb.summer.hackclub.com](https://github.com/hackclub/dns/pull/1822) on [hackclub/dns](https://github.com/hackclub/dns) (today)
 - [Add Summer of Making](https://github.com/hackclub/YSWS-Catalog/pull/89) on [hackclub/YSWS-Catalog](https://github.com/hackclub/YSWS-Catalog) (1 week ago)
 - [Remove the other button to create projects](https://github.com/hackclub/journey/pull/81) on [hackclub/journey](https://github.com/hackclub/journey) (2 weeks ago)
 - [Remove project creation](https://github.com/hackclub/journey/pull/80) on [hackclub/journey](https://github.com/hackclub/journey) (2 weeks ago)
