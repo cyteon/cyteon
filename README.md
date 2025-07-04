@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (today)
-- [cyteon/account-workflows](https://github.com/cyteon/account-workflows) -  (today)
-- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (1 day ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (3 days ago)
-- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (4 days ago)
+- [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (1 day ago)
+- [cyteon/account-workflows](https://github.com/cyteon/account-workflows) -  (1 day ago)
+- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (2 days ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (4 days ago)
+- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Adding lb.summer.hackclub.com](https://github.com/hackclub/dns/pull/1822) on [hackclub/dns](https://github.com/hackclub/dns) (5 days ago)
+- [Adding lb.summer.hackclub.com](https://github.com/hackclub/dns/pull/1822) on [hackclub/dns](https://github.com/hackclub/dns) (6 days ago)
 - [Add Summer of Making](https://github.com/hackclub/YSWS-Catalog/pull/89) on [hackclub/YSWS-Catalog](https://github.com/hackclub/YSWS-Catalog) (2 weeks ago)
 - [Remove the other button to create projects](https://github.com/hackclub/journey/pull/81) on [hackclub/journey](https://github.com/hackclub/journey) (3 weeks ago)
 - [Remove project creation](https://github.com/hackclub/journey/pull/80) on [hackclub/journey](https://github.com/hackclub/journey) (3 weeks ago)
