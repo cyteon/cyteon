@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (today)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (1 day ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 day ago)
 - [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (1 day ago)
-- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (1 day ago)
 - [cyteon/account-workflows](https://github.com/cyteon/account-workflows) -  (3 days ago)
 
 #### 🌱 My latest projects
