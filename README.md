@@ -4,9 +4,9 @@
 
 - [cyteon/leveling-bot](https://github.com/cyteon/leveling-bot) -  (today)
 - [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (2 days ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (3 days ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (3 days ago)
 - [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (3 days ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (3 days ago)
 
 #### 🌱 My latest projects
 
