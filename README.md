@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/leveling-bot](https://github.com/cyteon/leveling-bot) -  (2 days ago)
+- [cyteon/leveling-bot](https://github.com/cyteon/leveling-bot) -  (today)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (3 days ago)
 - [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (5 days ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (6 days ago)
