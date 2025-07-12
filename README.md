@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/leveling-bot](https://github.com/cyteon/leveling-bot) -  (today)
-- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (3 days ago)
-- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (5 days ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (6 days ago)
-- [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (6 days ago)
+- [cyteon/leveling-bot](https://github.com/cyteon/leveling-bot) -  (1 day ago)
+- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (4 days ago)
+- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (6 days ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
+- [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Adding lb.summer.hackclub.com](https://github.com/hackclub/dns/pull/1822) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
+- [Adding lb.summer.hackclub.com](https://github.com/hackclub/dns/pull/1822) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
 - [Add Summer of Making](https://github.com/hackclub/YSWS-Catalog/pull/89) on [hackclub/YSWS-Catalog](https://github.com/hackclub/YSWS-Catalog) (3 weeks ago)
 - [Remove the other button to create projects](https://github.com/hackclub/journey/pull/81) on [hackclub/journey](https://github.com/hackclub/journey) (1 month ago)
 - [Remove project creation](https://github.com/hackclub/journey/pull/80) on [hackclub/journey](https://github.com/hackclub/journey) (1 month ago)
