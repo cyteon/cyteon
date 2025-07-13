@@ -5,8 +5,8 @@
 - [cyteon/star](https://github.com/cyteon/star) -  (today)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (5 days ago)
 - [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (1 week ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
 - [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (1 week ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
 
 #### 🌱 My latest projects
 
