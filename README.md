@@ -10,11 +10,11 @@
 
 #### 🌱 My latest projects
 
+- [cyteon/plausible-slackbot](https://github.com/cyteon/plausible-slackbot) - 
 - [cyteon/star](https://github.com/cyteon/star) - 
 - [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte
 - [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com
 - [cyteon/fractal](https://github.com/cyteon/fractal) - A loops.so alternative, currently in early development
-- [cyteon/signal-tui](https://github.com/cyteon/signal-tui) - An signal terminal ui, using signal-cli to communicate with signal, and sqlite to store messages.
 
 #### 🔨 My recent Pull Requests
 
