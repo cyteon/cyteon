@@ -2,19 +2,19 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) -  (today)
 - [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (today)
 - [cyteon/plausible-slackbot](https://github.com/cyteon/plausible-slackbot) -  (1 day ago)
 - [cyteon/star](https://github.com/cyteon/star) -  (2 days ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (1 week ago)
-- [cyteon/cyteon.github.io](https://github.com/cyteon/cyteon.github.io) -  (1 week ago)
 
 #### 🌱 My latest projects
 
+- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) - 
 - [cyteon/plausible-slackbot](https://github.com/cyteon/plausible-slackbot) - 
 - [cyteon/star](https://github.com/cyteon/star) - 
 - [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte
 - [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com
-- [cyteon/fractal](https://github.com/cyteon/fractal) - A loops.so alternative, currently in early development
 
 #### 🔨 My recent Pull Requests
 
