@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/icepi-ysws](https://github.com/cyteon/icepi-ysws) -  (today)
 - [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) -  (today)
 - [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (1 day ago)
 - [cyteon/plausible-slackbot](https://github.com/cyteon/plausible-slackbot) -  (2 days ago)
 - [cyteon/star](https://github.com/cyteon/star) -  (3 days ago)
-- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (1 week ago)
 
 #### 🌱 My latest projects
 
