@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) -  (today)
-- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (today)
-- [cyteon/plausible-slackbot](https://github.com/cyteon/plausible-slackbot) -  (1 day ago)
-- [cyteon/star](https://github.com/cyteon/star) -  (2 days ago)
+- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) -  (1 day ago)
+- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (1 day ago)
+- [cyteon/plausible-slackbot](https://github.com/cyteon/plausible-slackbot) -  (2 days ago)
+- [cyteon/star](https://github.com/cyteon/star) -  (3 days ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (1 week ago)
 
 #### 🌱 My latest projects
@@ -19,7 +19,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Adding lb.summer.hackclub.com](https://github.com/hackclub/dns/pull/1822) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
-- [Add Summer of Making](https://github.com/hackclub/YSWS-Catalog/pull/89) on [hackclub/YSWS-Catalog](https://github.com/hackclub/YSWS-Catalog) (3 weeks ago)
+- [Add Summer of Making](https://github.com/hackclub/YSWS-Catalog/pull/89) on [hackclub/YSWS-Catalog](https://github.com/hackclub/YSWS-Catalog) (4 weeks ago)
 - [Remove the other button to create projects](https://github.com/hackclub/journey/pull/81) on [hackclub/journey](https://github.com/hackclub/journey) (1 month ago)
 - [Remove project creation](https://github.com/hackclub/journey/pull/80) on [hackclub/journey](https://github.com/hackclub/journey) (1 month ago)
 - [Fix wrong wording if less than 2 projects globally](https://github.com/hackclub/journey/pull/78) on [hackclub/journey](https://github.com/hackclub/journey) (1 month ago)
