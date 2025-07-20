@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) -  (2 days ago)
-- [cyteon/icepi-ysws](https://github.com/cyteon/icepi-ysws) -  (3 days ago)
-- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (4 days ago)
-- [cyteon/plausible-slackbot](https://github.com/cyteon/plausible-slackbot) -  (5 days ago)
-- [cyteon/star](https://github.com/cyteon/star) -  (6 days ago)
+- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) -  (3 days ago)
+- [cyteon/icepi-ysws](https://github.com/cyteon/icepi-ysws) -  (4 days ago)
+- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (5 days ago)
+- [cyteon/plausible-slackbot](https://github.com/cyteon/plausible-slackbot) -  (6 days ago)
+- [cyteon/star](https://github.com/cyteon/star) -  (1 week ago)
 
 #### 🌱 My latest projects
 
