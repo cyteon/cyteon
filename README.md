@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) -  (today)
+- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) - A rougelike version of pacman made in Picotron (today)
 - [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (1 day ago)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (3 days ago)
 - [cyteon/icepi-ysws](https://github.com/cyteon/icepi-ysws) -  (1 week ago)
@@ -10,7 +10,7 @@
 
 #### 🌱 My latest projects
 
-- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) - 
+- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) - A rougelike version of pacman made in Picotron
 - [cyteon/plausible-slackbot](https://github.com/cyteon/plausible-slackbot) - 
 - [cyteon/star](https://github.com/cyteon/star) - 
 - [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte
