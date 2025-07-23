@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) -  (today)
 - [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (1 day ago)
-- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) -  (1 day ago)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (3 days ago)
 - [cyteon/icepi-ysws](https://github.com/cyteon/icepi-ysws) -  (1 week ago)
 - [cyteon/plausible-slackbot](https://github.com/cyteon/plausible-slackbot) -  (1 week ago)
