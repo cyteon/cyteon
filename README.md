@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) - A rougelike version of pacman made in Picotron (today)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (today)
-- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) - A rougelike version of pacman made in Picotron (1 day ago)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (1 day ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (2 days ago)
 - [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (4 days ago)
