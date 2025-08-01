@@ -4,9 +4,9 @@
 
 - [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) - A rougelike version of pacman made in Picotron (today)
 - [cyteon/slack-transactions](https://github.com/cyteon/slack-transactions) -  (today)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (today)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (5 days ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (6 days ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
 
 #### 🌱 My latest projects
 
