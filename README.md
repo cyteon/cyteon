@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) - A rougelike version of pacman made in Picotron (1 day ago)
+- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) - A rougelike version of pacman made in Picotron (today)
 - [cyteon/slack-transactions](https://github.com/cyteon/slack-transactions) -  (1 day ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 day ago)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (6 days ago)
