@@ -2,15 +2,15 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) - A rougelike version of pacman made in Picotron (1 day ago)
-- [cyteon/slack-transactions](https://github.com/cyteon/slack-transactions) -  (3 days ago)
+- [cyteon/pico-gun](https://github.com/cyteon/pico-gun) - A rougelike version of pacman made in Picotron (today)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (3 days ago)
+- [cyteon/slack-transactions](https://github.com/cyteon/slack-transactions) -  (3 days ago)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (1 week ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 
 #### 🌱 My latest projects
 
-- [cyteon/untitled-pacman-game](https://github.com/cyteon/untitled-pacman-game) - A rougelike version of pacman made in Picotron
+- [cyteon/pico-gun](https://github.com/cyteon/pico-gun) - A rougelike version of pacman made in Picotron
 - [cyteon/plausible-slackbot](https://github.com/cyteon/plausible-slackbot) - A slack bot that lets you get analytics for your domains right in slack
 - [cyteon/star](https://github.com/cyteon/star) - A simple discord bot with leveling, reaction roles and a starboard
 - [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte
