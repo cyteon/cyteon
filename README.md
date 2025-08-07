@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/pico-gun](https://github.com/cyteon/pico-gun) - A rougelike version of pacman made in Picotron (2 days ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (5 days ago)
-- [cyteon/slack-transactions](https://github.com/cyteon/slack-transactions) -  (5 days ago)
+- [cyteon/pico-gun](https://github.com/cyteon/pico-gun) - A rougelike version of pacman made in Picotron (3 days ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (6 days ago)
+- [cyteon/slack-transactions](https://github.com/cyteon/slack-transactions) -  (6 days ago)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (1 week ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 
@@ -21,5 +21,5 @@
 - [Add lb back](https://github.com/hackclub/dns/pull/1910) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
 - [Remove lb (temporaily)](https://github.com/hackclub/dns/pull/1909) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
 - [Move SoM Leaderboard to new server](https://github.com/hackclub/dns/pull/1908) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
-- [Add a support system using nephthys](https://github.com/hackclub/nest/pull/130) on [hackclub/nest](https://github.com/hackclub/nest) (1 week ago)
+- [Add a support system using nephthys](https://github.com/hackclub/nest/pull/130) on [hackclub/nest](https://github.com/hackclub/nest) (2 weeks ago)
 - [Change the link to the new verification system](https://github.com/hackclub/nest/pull/129) on [hackclub/nest](https://github.com/hackclub/nest) (2 weeks ago)
