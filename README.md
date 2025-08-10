@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (1 day ago)
-- [cyteon/pico-gun](https://github.com/cyteon/pico-gun) - A rougelike version of pacman made in Picotron (5 days ago)
+- [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (2 days ago)
+- [cyteon/pico-gun](https://github.com/cyteon/pico-gun) - A rougelike version of pacman made in Picotron (6 days ago)
 - [cyteon/slack-transactions](https://github.com/cyteon/slack-transactions) -  (1 week ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
-- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (1 week ago)
+- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,4 +22,4 @@
 - [Remove lb (temporaily)](https://github.com/hackclub/dns/pull/1909) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
 - [Move SoM Leaderboard to new server](https://github.com/hackclub/dns/pull/1908) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
 - [Add a support system using nephthys](https://github.com/hackclub/nest/pull/130) on [hackclub/nest](https://github.com/hackclub/nest) (2 weeks ago)
-- [Change the link to the new verification system](https://github.com/hackclub/nest/pull/129) on [hackclub/nest](https://github.com/hackclub/nest) (2 weeks ago)
+- [Change the link to the new verification system](https://github.com/hackclub/nest/pull/129) on [hackclub/nest](https://github.com/hackclub/nest) (3 weeks ago)
