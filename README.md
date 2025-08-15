@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (6 days ago)
+- [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (1 week ago)
 - [cyteon/pico-gun](https://github.com/cyteon/pico-gun) - A rougelike version of pacman made in Picotron (1 week ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
-- [cyteon/slack-transactions](https://github.com/cyteon/slack-transactions) -  (1 week ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (2 weeks ago)
+- [cyteon/slack-transactions](https://github.com/cyteon/slack-transactions) -  (2 weeks ago)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (2 weeks ago)
 
 #### 🌱 My latest projects
