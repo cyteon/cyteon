@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) -  (today)
-- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (1 day ago)
-- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (1 day ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (5 days ago)
+- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) -  (1 day ago)
+- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (2 days ago)
+- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (2 days ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (6 days ago)
 - [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (1 week ago)
 
 #### 🌱 My latest projects
@@ -21,5 +21,5 @@
 - [Add lb back](https://github.com/hackclub/dns/pull/1910) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
 - [Remove lb (temporaily)](https://github.com/hackclub/dns/pull/1909) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
 - [Move SoM Leaderboard to new server](https://github.com/hackclub/dns/pull/1908) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
-- [Add a support system using nephthys](https://github.com/hackclub/nest/pull/130) on [hackclub/nest](https://github.com/hackclub/nest) (3 weeks ago)
+- [Add a support system using nephthys](https://github.com/hackclub/nest/pull/130) on [hackclub/nest](https://github.com/hackclub/nest) (4 weeks ago)
 - [Change the link to the new verification system](https://github.com/hackclub/nest/pull/129) on [hackclub/nest](https://github.com/hackclub/nest) (1 month ago)
