@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (today)
-- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) -  (1 day ago)
-- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (3 days ago)
-- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (3 days ago)
+- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (1 day ago)
+- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) -  (2 days ago)
+- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (4 days ago)
+- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (4 days ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add lb back](https://github.com/hackclub/dns/pull/1910) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
-- [Remove lb (temporaily)](https://github.com/hackclub/dns/pull/1909) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
-- [Move SoM Leaderboard to new server](https://github.com/hackclub/dns/pull/1908) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
-- [Add a support system using nephthys](https://github.com/hackclub/nest/pull/130) on [hackclub/nest](https://github.com/hackclub/nest) (4 weeks ago)
+- [Add lb back](https://github.com/hackclub/dns/pull/1910) on [hackclub/dns](https://github.com/hackclub/dns) (4 weeks ago)
+- [Remove lb (temporaily)](https://github.com/hackclub/dns/pull/1909) on [hackclub/dns](https://github.com/hackclub/dns) (4 weeks ago)
+- [Move SoM Leaderboard to new server](https://github.com/hackclub/dns/pull/1908) on [hackclub/dns](https://github.com/hackclub/dns) (4 weeks ago)
+- [Add a support system using nephthys](https://github.com/hackclub/nest/pull/130) on [hackclub/nest](https://github.com/hackclub/nest) (1 month ago)
 - [Change the link to the new verification system](https://github.com/hackclub/nest/pull/129) on [hackclub/nest](https://github.com/hackclub/nest) (1 month ago)
