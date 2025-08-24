@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) -  (1 day ago)
+- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) -  (today)
 - [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (2 days ago)
 - [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (5 days ago)
 - [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (5 days ago)
