@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (today)
 - [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) -  (1 day ago)
-- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (1 day ago)
 - [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (3 days ago)
 - [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (6 days ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
