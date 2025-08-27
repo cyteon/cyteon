@@ -4,13 +4,13 @@
 
 - [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (1 day ago)
 - [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (2 days ago)
-- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) -  (3 days ago)
+- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not (3 days ago)
 - [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (5 days ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
 
 #### 🌱 My latest projects
 
-- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - 
+- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not
 - [cyteon/pico-gun](https://github.com/cyteon/pico-gun) - A rougelike version of pacman made in Picotron
 - [cyteon/plausible-slackbot](https://github.com/cyteon/plausible-slackbot) - A slack bot that lets you get analytics for your domains right in slack
 - [cyteon/star](https://github.com/cyteon/star) - A simple discord bot with leveling, reaction roles and a starboard
