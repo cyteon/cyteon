@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (today)
-- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (today)
-- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (2 days ago)
-- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not (3 days ago)
-- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (5 days ago)
+- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 day ago)
+- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (1 day ago)
+- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (3 days ago)
+- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not (4 days ago)
+- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add TXT record for the PSL](https://github.com/hackclub/dns/pull/1981) on [hackclub/dns](https://github.com/hackclub/dns) (today)
-- [Add hackclub.app](https://github.com/publicsuffix/list/pull/2579) on [publicsuffix/list](https://github.com/publicsuffix/list) (today)
+- [Add TXT record for the PSL](https://github.com/hackclub/dns/pull/1981) on [hackclub/dns](https://github.com/hackclub/dns) (1 day ago)
+- [Add hackclub.app](https://github.com/publicsuffix/list/pull/2579) on [publicsuffix/list](https://github.com/publicsuffix/list) (1 day ago)
 - [Add lb back](https://github.com/hackclub/dns/pull/1910) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [Remove lb (temporaily)](https://github.com/hackclub/dns/pull/1909) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [Move SoM Leaderboard to new server](https://github.com/hackclub/dns/pull/1908) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
