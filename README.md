@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not (1 day ago)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (3 days ago)
-- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (3 days ago)
-- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (5 days ago)
+- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not (2 days ago)
+- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (4 days ago)
+- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (4 days ago)
+- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (6 days ago)
 - [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add TXT record for the PSL](https://github.com/hackclub/dns/pull/1981) on [hackclub/dns](https://github.com/hackclub/dns) (3 days ago)
-- [Add hackclub.app](https://github.com/publicsuffix/list/pull/2579) on [publicsuffix/list](https://github.com/publicsuffix/list) (3 days ago)
+- [Add TXT record for the PSL](https://github.com/hackclub/dns/pull/1981) on [hackclub/dns](https://github.com/hackclub/dns) (4 days ago)
+- [Add hackclub.app](https://github.com/publicsuffix/list/pull/2579) on [publicsuffix/list](https://github.com/publicsuffix/list) (4 days ago)
 - [Add lb back](https://github.com/hackclub/dns/pull/1910) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [Remove lb (temporaily)](https://github.com/hackclub/dns/pull/1909) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [Move SoM Leaderboard to new server](https://github.com/hackclub/dns/pull/1908) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
