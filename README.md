@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (today)
 - [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not (6 days ago)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 - [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (1 week ago)
+- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 - [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (1 week ago)
-- [cyteon/som-lb](https://github.com/cyteon/som-lb) - A leaderboard for https://summer.hackclub.com (1 week ago)
 
 #### 🌱 My latest projects
 
