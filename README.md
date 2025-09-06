@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (1 day ago)
+- [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (2 days ago)
 - [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not (1 week ago)
 - [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (1 week ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
