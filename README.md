@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
-- [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (5 days ago)
+- [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (6 days ago)
 - [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not (1 week ago)
-- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (1 week ago)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
+- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (2 weeks ago)
+- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (2 weeks ago)
 - [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add TXT record for the PSL](https://github.com/hackclub/dns/pull/1981) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
-- [Add hackclub.app](https://github.com/publicsuffix/list/pull/2579) on [publicsuffix/list](https://github.com/publicsuffix/list) (1 week ago)
+- [Add TXT record for the PSL](https://github.com/hackclub/dns/pull/1981) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
+- [Add hackclub.app](https://github.com/publicsuffix/list/pull/2579) on [publicsuffix/list](https://github.com/publicsuffix/list) (2 weeks ago)
 - [Add lb back](https://github.com/hackclub/dns/pull/1910) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [Remove lb (temporaily)](https://github.com/hackclub/dns/pull/1909) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [Move SoM Leaderboard to new server](https://github.com/hackclub/dns/pull/1908) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
