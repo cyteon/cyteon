@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 day ago)
-- [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (3 days ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (2 days ago)
+- [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (4 days ago)
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (3 weeks ago)
 - [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not (4 weeks ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 month ago)
