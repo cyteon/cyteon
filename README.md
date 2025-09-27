@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (today)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (today)
 - [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (4 days ago)
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List (3 weeks ago)
 - [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not (4 weeks ago)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 month ago)
 
 #### 🌱 My latest projects
 
