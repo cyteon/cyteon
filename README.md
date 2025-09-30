@@ -2,19 +2,19 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (today)
 - [cyteon/vr-flightsim](https://github.com/cyteon/vr-flightsim) -  (today)
 - [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS. Batteries Included (1 day ago)
 - [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (2 days ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (3 days ago)
-- [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (3 days ago)
 
 #### 🌱 My latest projects
 
 - [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not
+- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api
 - [cyteon/pico-gun](https://github.com/cyteon/pico-gun) - A rougelike version of pacman made in Picotron
 - [cyteon/plausible-slackbot](https://github.com/cyteon/plausible-slackbot) - A slack bot that lets you get analytics for your domains right in slack
 - [cyteon/star](https://github.com/cyteon/star) - A simple discord bot with leveling, reaction roles and a starboard
-- [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte
 
 #### 🔨 My recent Pull Requests
 
