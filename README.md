@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (today)
-- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (today)
-- [cyteon/vr-flightsim](https://github.com/cyteon/vr-flightsim) -  (today)
-- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS. Batteries Included (1 day ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (3 days ago)
+- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (1 day ago)
+- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (1 day ago)
+- [cyteon/vr-flightsim](https://github.com/cyteon/vr-flightsim) -  (1 day ago)
+- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS. Batteries Included (2 days ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (4 days ago)
 
 #### 🌱 My latest projects
 
