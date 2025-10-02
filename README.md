@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/potatobot-lite](https://github.com/cyteon/potatobot-lite) - Lite version of PotatoBot (today)
 - [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (today)
+- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (today)
 - [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (1 day ago)
-- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (2 days ago)
-- [cyteon/vr-flightsim](https://github.com/cyteon/vr-flightsim) -  (2 days ago)
 - [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (2 days ago)
 
 #### 🌱 My latest projects
