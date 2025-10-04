@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (today)
 - [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS. Batteries Included (today)
 - [cyteon/potatobot-lite](https://github.com/cyteon/potatobot-lite) - Lite version of PotatoBot (2 days ago)
 - [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (2 days ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (2 days ago)
-- [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (3 days ago)
 
 #### 🌱 My latest projects
 
