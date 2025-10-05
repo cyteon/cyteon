@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (today)
-- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS. Batteries Included (today)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (today)
-- [cyteon/potatobot-lite](https://github.com/cyteon/potatobot-lite) - Lite version of PotatoBot (2 days ago)
-- [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (2 days ago)
+- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (1 day ago)
+- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS. Batteries Included (1 day ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 day ago)
+- [cyteon/potatobot-lite](https://github.com/cyteon/potatobot-lite) - Lite version of PotatoBot (3 days ago)
+- [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (3 days ago)
 
 #### 🌱 My latest projects
 
