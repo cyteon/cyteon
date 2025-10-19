@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: rename stuff from battlemage to flavortown](https://github.com/hackclub/flavortown/pull/21) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Add TXT record for the PSL](https://github.com/hackclub/dns/pull/1981) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [Add hackclub.app](https://github.com/publicsuffix/list/pull/2579) on [publicsuffix/list](https://github.com/publicsuffix/list) (1 month ago)
 - [Add lb back](https://github.com/hackclub/dns/pull/1910) on [hackclub/dns](https://github.com/hackclub/dns) (2 months ago)
 - [Remove lb (temporaily)](https://github.com/hackclub/dns/pull/1909) on [hackclub/dns](https://github.com/hackclub/dns) (2 months ago)
-- [Move SoM Leaderboard to new server](https://github.com/hackclub/dns/pull/1908) on [hackclub/dns](https://github.com/hackclub/dns) (2 months ago)
