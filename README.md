@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create the landing page](https://github.com/hackclub/flavortown/pull/41) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [feat: project cards](https://github.com/hackclub/flavortown/pull/31) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
 - [feat: rails performance monitor at /rails/performance](https://github.com/hackclub/flavortown/pull/23) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (6 days ago)
 - [chore: rename stuff from battlemage to flavortown](https://github.com/hackclub/flavortown/pull/21) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (6 days ago)
 - [Add TXT record for the PSL](https://github.com/hackclub/dns/pull/1981) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
-- [Add hackclub.app](https://github.com/publicsuffix/list/pull/2579) on [publicsuffix/list](https://github.com/publicsuffix/list) (1 month ago)
