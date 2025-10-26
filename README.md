@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) -  (1 day ago)
-- [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (4 days ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) -  (2 days ago)
+- [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (5 days ago)
 - [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (2 weeks ago)
-- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (2 weeks ago)
+- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (3 weeks ago)
 - [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Create the landing page](https://github.com/hackclub/flavortown/pull/41) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
-- [feat: project cards](https://github.com/hackclub/flavortown/pull/31) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
-- [feat: rails performance monitor at /rails/performance](https://github.com/hackclub/flavortown/pull/23) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (6 days ago)
-- [chore: rename stuff from battlemage to flavortown](https://github.com/hackclub/flavortown/pull/21) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (6 days ago)
-- [Add TXT record for the PSL](https://github.com/hackclub/dns/pull/1981) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
+- [Create the landing page](https://github.com/hackclub/flavortown/pull/41) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
+- [feat: project cards](https://github.com/hackclub/flavortown/pull/31) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (6 days ago)
+- [feat: rails performance monitor at /rails/performance](https://github.com/hackclub/flavortown/pull/23) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
+- [chore: rename stuff from battlemage to flavortown](https://github.com/hackclub/flavortown/pull/21) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
+- [Add TXT record for the PSL](https://github.com/hackclub/dns/pull/1981) on [hackclub/dns](https://github.com/hackclub/dns) (2 months ago)
