@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) -  (4 days ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) -  (2 days ago)
 - [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (1 week ago)
 - [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (2 weeks ago)
 - [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (3 weeks ago)
