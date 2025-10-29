@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) -  (today)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) -  (1 day ago)
+- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (1 day ago)
 - [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (1 week ago)
-- [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (2 weeks ago)
+- [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (3 weeks ago)
 - [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (3 weeks ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add jua with an @import cause it dosent look like it has been importe…](https://github.com/hackclub/flavortown/pull/54) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
-- [move where font is set](https://github.com/hackclub/flavortown/pull/53) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
-- [Create the landing page](https://github.com/hackclub/flavortown/pull/41) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
+- [add jua with an @import cause it dosent look like it has been importe…](https://github.com/hackclub/flavortown/pull/54) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
+- [move where font is set](https://github.com/hackclub/flavortown/pull/53) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
+- [Create the landing page](https://github.com/hackclub/flavortown/pull/41) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (4 days ago)
 - [feat: project cards](https://github.com/hackclub/flavortown/pull/31) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
 - [feat: rails performance monitor at /rails/performance](https://github.com/hackclub/flavortown/pull/23) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
