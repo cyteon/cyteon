@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve the css naming](https://github.com/hackclub/flavortown/pull/58) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
+- [Improve the css](https://github.com/hackclub/flavortown/pull/58) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Fix the landing page styles](https://github.com/hackclub/flavortown/pull/57) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [add jua with an @import cause it dosent look like it has been importe…](https://github.com/hackclub/flavortown/pull/54) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [move where font is set](https://github.com/hackclub/flavortown/pull/53) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
