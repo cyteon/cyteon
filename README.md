@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make the landing page look closer to design + finish section 5](https://github.com/hackclub/flavortown/pull/74) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Fix the font](https://github.com/hackclub/flavortown/pull/65) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (4 days ago)
 - [Improve the css](https://github.com/hackclub/flavortown/pull/58) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
 - [Fix the landing page styles](https://github.com/hackclub/flavortown/pull/57) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
 - [add jua with an @import cause it dosent look like it has been importe…](https://github.com/hackclub/flavortown/pull/54) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (6 days ago)
-- [move where font is set](https://github.com/hackclub/flavortown/pull/53) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (6 days ago)
