@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (today)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (2 days ago)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (1 week ago)
-- [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (2 weeks ago)
 - [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (1 month ago)
 - [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android (1 month ago)
 
