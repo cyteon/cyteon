@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 day ago)
+- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (today)
+- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (today)
 - [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (4 days ago)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (6 days ago)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (2 weeks ago)
-- [cyteon/neobrutalism-svelte](https://github.com/cyteon/neobrutalism-svelte) - A collection of neobrutalism-styled Tailwind components. Ported to svelte (1 month ago)
 
 #### 🌱 My latest projects
 
