@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 day ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (today)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (1 day ago)
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 day ago)
+- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 day ago)
 - [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (5 days ago)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (2 weeks ago)
 
@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Finish landing page](https://github.com/hackclub/flavortown/pull/91) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
+- [Add faq section](https://github.com/hackclub/flavortown/pull/91) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Add some testimonials](https://github.com/hackclub/flavortown/pull/87) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Make the landing page look closer to design + finish section 5](https://github.com/hackclub/flavortown/pull/74) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
 - [Fix the font](https://github.com/hackclub/flavortown/pull/65) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
