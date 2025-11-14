@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Landing page stuff](https://github.com/hackclub/flavortown/pull/98) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Improve landing page responsiveness and design](https://github.com/hackclub/flavortown/pull/97) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [fix](https://github.com/hackclub/flavortown/pull/95) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Landing page stuff](https://github.com/hackclub/flavortown/pull/94) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Add faq section](https://github.com/hackclub/flavortown/pull/91) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
-- [Add some testimonials](https://github.com/hackclub/flavortown/pull/87) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
