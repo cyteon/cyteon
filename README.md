@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix prizes carousel (in theory)](https://github.com/hackclub/flavortown/pull/107) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Redesign inspiration projects](https://github.com/hackclub/flavortown/pull/106) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Landing page css and responsiveness tweaks](https://github.com/hackclub/flavortown/pull/103) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Fix responsiveness and small stuff on the footer](https://github.com/hackclub/flavortown/pull/102) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Made the landing page look more like the design](https://github.com/hackclub/flavortown/pull/100) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
-- [Landing page stuff](https://github.com/hackclub/flavortown/pull/98) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
