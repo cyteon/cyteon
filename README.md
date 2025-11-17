@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve landing page responsiveness](https://github.com/hackclub/flavortown/pull/122) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Add som hours and remove an comma](https://github.com/hackclub/flavortown/pull/119) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Replace some placeholders](https://github.com/hackclub/flavortown/pull/109) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Fix prizes carousel (in theory)](https://github.com/hackclub/flavortown/pull/107) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Redesign inspiration projects](https://github.com/hackclub/flavortown/pull/106) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
-- [Landing page css and responsiveness tweaks](https://github.com/hackclub/flavortown/pull/103) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
