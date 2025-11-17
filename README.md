@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 day ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (today)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (6 days ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (6 days ago)
 - [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (1 week ago)
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add som hours and remove an comma](https://github.com/hackclub/flavortown/pull/119) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Replace some placeholders](https://github.com/hackclub/flavortown/pull/109) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Fix prizes carousel (in theory)](https://github.com/hackclub/flavortown/pull/107) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Redesign inspiration projects](https://github.com/hackclub/flavortown/pull/106) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Landing page css and responsiveness tweaks](https://github.com/hackclub/flavortown/pull/103) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
-- [Fix responsiveness and small stuff on the footer](https://github.com/hackclub/flavortown/pull/102) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
