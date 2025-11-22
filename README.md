@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix faq on age limits](https://github.com/hackclub/flavortown/pull/158) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Undo schema changes that was auto added by db:migrate](https://github.com/hackclub/flavortown/pull/157) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Landing page](https://github.com/hackclub/flavortown/pull/155) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Improve responsiveness](https://github.com/hackclub/flavortown/pull/154) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [make landing page a little closer to design](https://github.com/hackclub/flavortown/pull/153) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
-- [General site improvements](https://github.com/hackclub/flavortown/pull/138) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
