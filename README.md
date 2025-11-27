@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (today)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (5 days ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (6 days ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (2 weeks ago)
-- [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (2 weeks ago)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (1 month ago)
 
 #### 🌱 My latest projects
