@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (today)
-- [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (1 day ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 day ago)
+- [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (2 days ago)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 week ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 week ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (2 weeks ago)
