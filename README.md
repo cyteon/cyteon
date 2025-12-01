@@ -2,19 +2,19 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/aoc25](https://github.com/cyteon/aoc25) -  (today)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (2 days ago)
 - [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (3 days ago)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 week ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 week ago)
-- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [cyteon/aoc25](https://github.com/cyteon/aoc25) - 
 - [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not
 - [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android
 - [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api
 - [cyteon/pico-gun](https://github.com/cyteon/pico-gun) - A rougelike version of pacman made in Picotron
-- [cyteon/plausible-slackbot](https://github.com/cyteon/plausible-slackbot) - A slack bot that lets you get analytics for your domains right in slack
 
 #### 🔨 My recent Pull Requests
 
