@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/aoc25](https://github.com/cyteon/aoc25) -  (today)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (3 days ago)
-- [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (4 days ago)
+- [cyteon/aoc25](https://github.com/cyteon/aoc25) -  (1 day ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (4 days ago)
+- [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (5 days ago)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 week ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 week ago)
 
