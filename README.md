@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Removed enabled:true check cause that isnt used when showing stuff on site](https://github.com/hackclub/flavortown/pull/301) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
+- [Add authentication to api](https://github.com/hackclub/flavortown/pull/300) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Initial API setup + some routes ](https://github.com/hackclub/flavortown/pull/293) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [fix faq on age limits](https://github.com/hackclub/flavortown/pull/158) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 weeks ago)
 - [Undo schema changes that was auto added by db:migrate](https://github.com/hackclub/flavortown/pull/157) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 weeks ago)
-- [Landing page](https://github.com/hackclub/flavortown/pull/155) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 weeks ago)
-- [Improve responsiveness](https://github.com/hackclub/flavortown/pull/154) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 weeks ago)
