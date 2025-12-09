@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix generate api key](https://github.com/hackclub/flavortown/pull/302) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Removed enabled:true check cause that isnt used when showing stuff on site](https://github.com/hackclub/flavortown/pull/301) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Add authentication to api](https://github.com/hackclub/flavortown/pull/300) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Initial API setup + some routes ](https://github.com/hackclub/flavortown/pull/293) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [fix faq on age limits](https://github.com/hackclub/flavortown/pull/158) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 weeks ago)
-- [Undo schema changes that was auto added by db:migrate](https://github.com/hackclub/flavortown/pull/157) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 weeks ago)
