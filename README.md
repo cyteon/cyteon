@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (today)
-- [cyteon/aoc25](https://github.com/cyteon/aoc25) -  (1 day ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 day ago)
+- [cyteon/aoc25](https://github.com/cyteon/aoc25) -  (2 days ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
 - [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (1 week ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (2 weeks ago)
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix generate api key](https://github.com/hackclub/flavortown/pull/302) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
-- [Removed enabled:true check cause that isnt used when showing stuff on site](https://github.com/hackclub/flavortown/pull/301) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
-- [Add authentication to api](https://github.com/hackclub/flavortown/pull/300) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
-- [Initial API setup + some routes ](https://github.com/hackclub/flavortown/pull/293) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
+- [fix generate api key](https://github.com/hackclub/flavortown/pull/302) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
+- [Removed enabled:true check cause that isnt used when showing stuff on site](https://github.com/hackclub/flavortown/pull/301) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
+- [Add authentication to api](https://github.com/hackclub/flavortown/pull/300) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
+- [Initial API setup + some routes ](https://github.com/hackclub/flavortown/pull/293) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [fix faq on age limits](https://github.com/hackclub/flavortown/pull/158) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 weeks ago)
