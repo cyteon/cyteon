@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove redundant login implementation](https://github.com/hackclub/flavortown/pull/397) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Make a hidden login button](https://github.com/hackclub/flavortown/pull/376) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Update event start date in hero section](https://github.com/hackclub/flavortown/pull/370) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Show all region prices on store api](https://github.com/hackclub/flavortown/pull/338) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
 - [Add getting devlogs via API](https://github.com/hackclub/flavortown/pull/314) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
-- [fix generate api key](https://github.com/hackclub/flavortown/pull/302) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (6 days ago)
