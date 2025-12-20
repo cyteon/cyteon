@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve helper dash](https://github.com/hackclub/flavortown/pull/524) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Fix liking and commenting refreshing page](https://github.com/hackclub/flavortown/pull/520) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Add links to devlogs](https://github.com/hackclub/flavortown/pull/516) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [fix link on 404 page](https://github.com/hackclub/flavortown/pull/507) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Change start to "soon"](https://github.com/hackclub/flavortown/pull/413) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (4 days ago)
-- [Remove redundant login implementation](https://github.com/hackclub/flavortown/pull/397) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
