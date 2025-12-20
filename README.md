@@ -3,7 +3,7 @@
 #### 👀 What have i been working on recently?
 
 - [cyteon/aoc25](https://github.com/cyteon/aoc25) -  (today)
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (4 days ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (today)
 - [cyteon/tof1_drone](https://github.com/cyteon/tof1_drone) - drone for a school project (1 week ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (3 weeks ago)
 - [cyteon/letquiz](https://github.com/cyteon/letquiz) - quizlet ripoff (3 weeks ago)
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix link on 404 page](https://github.com/hackclub/flavortown/pull/507) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Change start to "soon"](https://github.com/hackclub/flavortown/pull/413) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (4 days ago)
 - [Remove redundant login implementation](https://github.com/hackclub/flavortown/pull/397) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
 - [Make a hidden login button](https://github.com/hackclub/flavortown/pull/376) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (6 days ago)
 - [Update event start date in hero section](https://github.com/hackclub/flavortown/pull/370) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (6 days ago)
-- [Show all region prices on store api](https://github.com/hackclub/flavortown/pull/338) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
