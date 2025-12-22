@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Blur address on shop order page](https://github.com/hackclub/flavortown/pull/579) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Require readme and description for shipping](https://github.com/hackclub/flavortown/pull/575) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Should fix resending ship webhook](https://github.com/hackclub/flavortown/pull/573) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [make usernames on lb links](https://github.com/hackclub/flavortown/pull/564) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Opt-in Leaderboard](https://github.com/hackclub/flavortown/pull/563) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
-- [Reset settings form when cancel is pressed](https://github.com/hackclub/flavortown/pull/533) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
