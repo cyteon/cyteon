@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Require readme and description for shipping](https://github.com/hackclub/flavortown/pull/575) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
+- [Should fix resending ship webhook](https://github.com/hackclub/flavortown/pull/573) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [make usernames on lb links](https://github.com/hackclub/flavortown/pull/564) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Opt-in Leaderboard](https://github.com/hackclub/flavortown/pull/563) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Reset settings form when cancel is pressed](https://github.com/hackclub/flavortown/pull/533) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
-- [Redirect to kitchen from / or login if you are logged in](https://github.com/hackclub/flavortown/pull/532) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
-- [Improve helper dash](https://github.com/hackclub/flavortown/pull/524) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
