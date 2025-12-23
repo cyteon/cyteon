@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix api](https://github.com/hackclub/flavortown/pull/609) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [API Docs](https://github.com/hackclub/flavortown/pull/605) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Blur address on shop order page](https://github.com/hackclub/flavortown/pull/579) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Require readme and description for shipping](https://github.com/hackclub/flavortown/pull/575) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Should fix resending ship webhook](https://github.com/hackclub/flavortown/pull/573) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
-- [make usernames on lb links](https://github.com/hackclub/flavortown/pull/564) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
