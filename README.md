@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 day ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (today)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 day ago)
 - [cyteon/aoc25](https://github.com/cyteon/aoc25) -  (3 days ago)
 - [cyteon/tof1_drone](https://github.com/cyteon/tof1_drone) - drone for a school project (1 week ago)
