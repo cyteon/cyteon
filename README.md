@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Major API improvements](https://github.com/hackclub/flavortown/pull/633) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Prevent scraping pages using ?format=json](https://github.com/hackclub/flavortown/pull/624) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Increase ratelimit if searching projects](https://github.com/hackclub/flavortown/pull/616) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
 - [fix api](https://github.com/hackclub/flavortown/pull/609) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
 - [API Docs](https://github.com/hackclub/flavortown/pull/605) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
-- [Blur address on shop order page](https://github.com/hackclub/flavortown/pull/579) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
