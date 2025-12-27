@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve devlogs](https://github.com/hackclub/flavortown/pull/666) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [add ratelimit for users api endpoints](https://github.com/hackclub/flavortown/pull/664) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Add ship status to projects api](https://github.com/hackclub/flavortown/pull/651) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Fix devlog ids list on projects api endpoint](https://github.com/hackclub/flavortown/pull/648) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Major API improvements](https://github.com/hackclub/flavortown/pull/633) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
-- [Prevent scraping pages using ?format=json](https://github.com/hackclub/flavortown/pull/624) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
