@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (today)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 day ago)
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (2 days ago)
 - [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (3 days ago)
 - [cyteon/aoc25](https://github.com/cyteon/aoc25) -  (1 week ago)
 - [cyteon/tof1_drone](https://github.com/cyteon/tof1_drone) - drone for a school project (2 weeks ago)
