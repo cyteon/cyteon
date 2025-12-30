@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make lb responsive](https://github.com/hackclub/flavortown/pull/720) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
+- [Add /api/v1/users/me](https://github.com/hackclub/flavortown/pull/719) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Make /api/v1/users/me, and add api to extension tracking](https://github.com/hackclub/flavortown/pull/704) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [change from #<rank> to "you are #<rank>" on kitchen](https://github.com/hackclub/flavortown/pull/678) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
 - [Improve devlogs](https://github.com/hackclub/flavortown/pull/666) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
-- [add ratelimit for users api endpoints](https://github.com/hackclub/flavortown/pull/664) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
-- [Add ship status to projects api](https://github.com/hackclub/flavortown/pull/651) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (4 days ago)
