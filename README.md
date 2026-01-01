@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (today)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (today)
 - [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in Svelte. Batteries Included (1 day ago)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (2 days ago)
 - [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (6 days ago)
-- [cyteon/aoc25](https://github.com/cyteon/aoc25) -  (1 week ago)
 
 #### 🌱 My latest projects
 
