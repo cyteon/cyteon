@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make sure store api and it's docs match](https://github.com/hackclub/flavortown/pull/763) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Make lb responsive](https://github.com/hackclub/flavortown/pull/720) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
 - [Add /api/v1/users/me](https://github.com/hackclub/flavortown/pull/719) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
 - [Make /api/v1/users/me, and add api to extension tracking](https://github.com/hackclub/flavortown/pull/704) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (4 days ago)
 - [change from #<rank> to "you are #<rank>" on kitchen](https://github.com/hackclub/flavortown/pull/678) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
-- [Improve devlogs](https://github.com/hackclub/flavortown/pull/666) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (6 days ago)
