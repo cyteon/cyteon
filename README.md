@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (today)
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (today)
-- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (1 day ago)
-- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in Svelte. Batteries Included (2 days ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 day ago)
+- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 day ago)
+- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (2 days ago)
+- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in Svelte. Batteries Included (3 days ago)
 - [cyteon/polyworld](https://github.com/cyteon/polyworld) - A low-poly multiplayer open world game, currently in the prototype stage.  (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Make sure store api and it's docs match](https://github.com/hackclub/flavortown/pull/763) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
-- [Make lb responsive](https://github.com/hackclub/flavortown/pull/720) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
-- [Add /api/v1/users/me](https://github.com/hackclub/flavortown/pull/719) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
-- [Make /api/v1/users/me, and add api to extension tracking](https://github.com/hackclub/flavortown/pull/704) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (4 days ago)
-- [change from #<rank> to "you are #<rank>" on kitchen](https://github.com/hackclub/flavortown/pull/678) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
+- [Make sure store api and it's docs match](https://github.com/hackclub/flavortown/pull/763) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
+- [Make lb responsive](https://github.com/hackclub/flavortown/pull/720) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (4 days ago)
+- [Add /api/v1/users/me](https://github.com/hackclub/flavortown/pull/719) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (4 days ago)
+- [Make /api/v1/users/me, and add api to extension tracking](https://github.com/hackclub/flavortown/pull/704) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
+- [change from #<rank> to "you are #<rank>" on kitchen](https://github.com/hackclub/flavortown/pull/678) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (6 days ago)
