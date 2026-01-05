@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/nio-25-26](https://github.com/cyteon/nio-25-26) -  (today)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 day ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (2 days ago)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (3 days ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (4 days ago)
-- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in Svelte. Batteries Included (5 days ago)
 
 #### 🌱 My latest projects
 
