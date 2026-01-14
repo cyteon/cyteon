@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 day ago)
-- [cyteon/nio-25-26](https://github.com/cyteon/nio-25-26) -  (4 days ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (2 days ago)
+- [cyteon/nio-25-26](https://github.com/cyteon/nio-25-26) -  (5 days ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 week ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (1 week ago)
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add error handling to creating projects in api, and more](https://github.com/hackclub/flavortown/pull/865) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
-- [Specify that a raw readme url is required](https://github.com/hackclub/flavortown/pull/839) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (4 days ago)
+- [Add error handling to creating projects in api, and more](https://github.com/hackclub/flavortown/pull/865) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
+- [Specify that a raw readme url is required](https://github.com/hackclub/flavortown/pull/839) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
 - [Add lxc.hackclub.app](https://github.com/hackclub/dns/pull/2337) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
 - [Make sure store api and it's docs match](https://github.com/hackclub/flavortown/pull/763) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
 - [Make lb responsive](https://github.com/hackclub/flavortown/pull/720) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 weeks ago)
