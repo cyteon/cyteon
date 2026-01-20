@@ -22,4 +22,4 @@
 - [Specify that a raw readme url is required](https://github.com/hackclub/flavortown/pull/839) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
 - [Add lxc.hackclub.app](https://github.com/hackclub/dns/pull/2337) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
 - [Make sure store api and it's docs match](https://github.com/hackclub/flavortown/pull/763) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 weeks ago)
-- [Make lb responsive](https://github.com/hackclub/flavortown/pull/720) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 weeks ago)
+- [Make lb responsive](https://github.com/hackclub/flavortown/pull/720) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 weeks ago)
