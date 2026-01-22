@@ -6,7 +6,7 @@
 - [cyteon/nio-25-26](https://github.com/cyteon/nio-25-26) -  (1 week ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (2 weeks ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (2 weeks ago)
-- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (2 weeks ago)
+- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (3 weeks ago)
 
 #### 🌱 My latest projects
 
