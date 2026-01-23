@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (today)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 week ago)
 - [cyteon/nio-25-26](https://github.com/cyteon/nio-25-26) -  (2 weeks ago)
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (2 weeks ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (2 weeks ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (3 weeks ago)
 
