@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove refrence to dev url](https://github.com/hackclub/flavortown/pull/1021) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
+- [Fix tutorial capitalization](https://github.com/hackclub/flavortown/pull/1020) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Add error handling to creating projects in api, and more](https://github.com/hackclub/flavortown/pull/865) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
 - [Specify that a raw readme url is required](https://github.com/hackclub/flavortown/pull/839) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 weeks ago)
 - [Add lxc.hackclub.app](https://github.com/hackclub/dns/pull/2337) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
-- [Make sure store api and it's docs match](https://github.com/hackclub/flavortown/pull/763) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 weeks ago)
-- [Make lb responsive](https://github.com/hackclub/flavortown/pull/720) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 weeks ago)
