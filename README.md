@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (today)
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (today)
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (today)
-- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (today)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 day ago)
+- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 day ago)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (1 day ago)
+- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (1 day ago)
 - [cyteon/nio-25-26](https://github.com/cyteon/nio-25-26) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove refrence to dev url](https://github.com/hackclub/flavortown/pull/1021) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
-- [Fix tutorial capitalization](https://github.com/hackclub/flavortown/pull/1020) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
+- [Remove refrence to dev url](https://github.com/hackclub/flavortown/pull/1021) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
+- [Fix tutorial capitalization](https://github.com/hackclub/flavortown/pull/1020) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Add error handling to creating projects in api, and more](https://github.com/hackclub/flavortown/pull/865) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
 - [Specify that a raw readme url is required](https://github.com/hackclub/flavortown/pull/839) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 weeks ago)
-- [Add lxc.hackclub.app](https://github.com/hackclub/dns/pull/2337) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
+- [Add lxc.hackclub.app](https://github.com/hackclub/dns/pull/2337) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
