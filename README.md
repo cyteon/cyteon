@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add comments to the devlog api](https://github.com/hackclub/flavortown/pull/1059) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [v1.0.0](https://github.com/cyteon/modu/pull/32) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
 - [Remove refrence to dev url](https://github.com/hackclub/flavortown/pull/1021) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
 - [Fix tutorial capitalization](https://github.com/hackclub/flavortown/pull/1020) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
 - [Add error handling to creating projects in api, and more](https://github.com/hackclub/flavortown/pull/865) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
-- [Specify that a raw readme url is required](https://github.com/hackclub/flavortown/pull/839) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 weeks ago)
