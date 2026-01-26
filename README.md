@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (today)
-- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (2 days ago)
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (2 days ago)
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (2 days ago)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (1 day ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (3 days ago)
+- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (3 days ago)
+- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (3 days ago)
 - [cyteon/nio-25-26](https://github.com/cyteon/nio-25-26) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add comments to the devlog api](https://github.com/hackclub/flavortown/pull/1059) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
-- [v1.0.0](https://github.com/cyteon/modu/pull/32) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
-- [Remove refrence to dev url](https://github.com/hackclub/flavortown/pull/1021) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
-- [Fix tutorial capitalization](https://github.com/hackclub/flavortown/pull/1020) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
-- [Add error handling to creating projects in api, and more](https://github.com/hackclub/flavortown/pull/865) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
+- [Add comments to the devlog api](https://github.com/hackclub/flavortown/pull/1059) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
+- [v1.0.0](https://github.com/cyteon/modu/pull/32) on [cyteon/modu](https://github.com/cyteon/modu) (2 days ago)
+- [Remove refrence to dev url](https://github.com/hackclub/flavortown/pull/1021) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
+- [Fix tutorial capitalization](https://github.com/hackclub/flavortown/pull/1020) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
+- [Add error handling to creating projects in api, and more](https://github.com/hackclub/flavortown/pull/865) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 weeks ago)
