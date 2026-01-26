@@ -4,8 +4,8 @@
 
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (today)
 - [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (today)
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (3 days ago)
 - [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (3 days ago)
+- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (3 days ago)
 - [cyteon/nio-25-26](https://github.com/cyteon/nio-25-26) -  (2 weeks ago)
 
 #### 🌱 My latest projects
