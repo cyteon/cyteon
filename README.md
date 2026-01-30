@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/tof1_drone](https://github.com/cyteon/tof1_drone) - drone for a school project (today)
 - [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (2 days ago)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (3 days ago)
-- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (1 week ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 week ago)
-- [cyteon/nio-25-26](https://github.com/cyteon/nio-25-26) -  (3 weeks ago)
+- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (1 week ago)
 
 #### 🌱 My latest projects
 
