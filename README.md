@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Show on leaderboard if someone that opted in is banned](https://github.com/hackclub/flavortown/pull/1209) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [1.3.0](https://github.com/cyteon/modu/pull/36) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
 - [Crypto](https://github.com/cyteon/modu/pull/33) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
 - [Improve shop design](https://github.com/hackclub/flavortown/pull/1092) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
 - [Add comments to the devlog api](https://github.com/hackclub/flavortown/pull/1059) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (6 days ago)
-- [v1.0.0](https://github.com/cyteon/modu/pull/32) on [cyteon/modu](https://github.com/cyteon/modu) (1 week ago)
