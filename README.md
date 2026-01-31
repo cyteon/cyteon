@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (today)
 - [cyteon/tof1_drone](https://github.com/cyteon/tof1_drone) - drone for a school project (1 day ago)
 - [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (3 days ago)
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (4 days ago)
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 week ago)
 - [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (1 week ago)
+- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 week ago)
 
 #### 🌱 My latest projects
 
