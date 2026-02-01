@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improvements to helper dash](https://github.com/hackclub/flavortown/pull/1226) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Add GET /api/v1/projects/:id/devlogs](https://github.com/hackclub/flavortown/pull/1217) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Modu v2.0.0](https://github.com/cyteon/modu/pull/38) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
 - [Hide banned users from leaderboard](https://github.com/hackclub/flavortown/pull/1209) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [1.3.0](https://github.com/cyteon/modu/pull/36) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
-- [Crypto](https://github.com/cyteon/modu/pull/33) on [cyteon/modu](https://github.com/cyteon/modu) (5 days ago)
