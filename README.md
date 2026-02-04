@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (today)
-- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (today)
-- [cyteon/assets](https://github.com/cyteon/assets) -  (1 day ago)
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (1 day ago)
-- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (2 days ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 day ago)
+- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (1 day ago)
+- [cyteon/assets](https://github.com/cyteon/assets) -  (2 days ago)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (2 days ago)
+- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Port modu to web and redesign website](https://github.com/cyteon/modu/pull/39) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
-- [Improvements to helper dash](https://github.com/hackclub/flavortown/pull/1226) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
-- [Add GET /api/v1/projects/:id/devlogs](https://github.com/hackclub/flavortown/pull/1217) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
-- [Modu v2.0.0](https://github.com/cyteon/modu/pull/38) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
-- [Hide banned users from leaderboard](https://github.com/hackclub/flavortown/pull/1209) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
+- [Port modu to web and redesign website](https://github.com/cyteon/modu/pull/39) on [cyteon/modu](https://github.com/cyteon/modu) (2 days ago)
+- [Improvements to helper dash](https://github.com/hackclub/flavortown/pull/1226) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
+- [Add GET /api/v1/projects/:id/devlogs](https://github.com/hackclub/flavortown/pull/1217) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
+- [Modu v2.0.0](https://github.com/cyteon/modu/pull/38) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
+- [Hide banned users from leaderboard](https://github.com/hackclub/flavortown/pull/1209) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (4 days ago)
