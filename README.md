@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (today)
 - [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (1 day ago)
-- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (2 days ago)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (2 days ago)
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (3 days ago)
+- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (2 days ago)
 - [cyteon/assets](https://github.com/cyteon/assets) -  (3 days ago)
 
 #### 🌱 My latest projects
