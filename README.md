@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve objects and arrays](https://github.com/cyteon/modu/pull/42) on [cyteon/modu](https://github.com/cyteon/modu) (today)
 - [Add file i/o back](https://github.com/cyteon/modu/pull/41) on [cyteon/modu](https://github.com/cyteon/modu) (today)
 - [Port modu to web and redesign website](https://github.com/cyteon/modu/pull/39) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
 - [Improvements to helper dash](https://github.com/hackclub/flavortown/pull/1226) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
 - [Add GET /api/v1/projects/:id/devlogs](https://github.com/hackclub/flavortown/pull/1217) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
-- [Modu v2.0.0](https://github.com/cyteon/modu/pull/38) on [cyteon/modu](https://github.com/cyteon/modu) (6 days ago)
