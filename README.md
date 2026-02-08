@@ -5,8 +5,8 @@
 - [cyteon/flight-stalker](https://github.com/cyteon/flight-stalker) -  (today)
 - [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (1 day ago)
 - [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (4 days ago)
-- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (5 days ago)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (5 days ago)
+- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (5 days ago)
 
 #### 🌱 My latest projects
 
