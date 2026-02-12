@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (today)
 - [cyteon/flight-stalker](https://github.com/cyteon/flight-stalker) -  (3 days ago)
 - [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (5 days ago)
 - [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (1 week ago)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 week ago)
-- [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (1 week ago)
 
 #### 🌱 My latest projects
 
