@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/flight-stalker](https://github.com/cyteon/flight-stalker) -  (2 days ago)
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (4 days ago)
+- [cyteon/flight-stalker](https://github.com/cyteon/flight-stalker) -  (3 days ago)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (5 days ago)
 - [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (1 week ago)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 week ago)
 - [cyteon/PlenAPI](https://github.com/cyteon/PlenAPI) - A aviation api (1 week ago)
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve objects and arrays](https://github.com/cyteon/modu/pull/42) on [cyteon/modu](https://github.com/cyteon/modu) (5 days ago)
-- [Add file i/o back](https://github.com/cyteon/modu/pull/41) on [cyteon/modu](https://github.com/cyteon/modu) (5 days ago)
+- [Improve objects and arrays](https://github.com/cyteon/modu/pull/42) on [cyteon/modu](https://github.com/cyteon/modu) (6 days ago)
+- [Add file i/o back](https://github.com/cyteon/modu/pull/41) on [cyteon/modu](https://github.com/cyteon/modu) (6 days ago)
 - [Port modu to web and redesign website](https://github.com/cyteon/modu/pull/39) on [cyteon/modu](https://github.com/cyteon/modu) (1 week ago)
 - [Improvements to helper dash](https://github.com/hackclub/flavortown/pull/1226) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
 - [Add GET /api/v1/projects/:id/devlogs](https://github.com/hackclub/flavortown/pull/1217) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
