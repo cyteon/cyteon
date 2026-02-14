@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [The devlog resource was removed in an PR not related to the API at all](https://github.com/hackclub/flavortown/pull/1417) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Improve objects and arrays](https://github.com/cyteon/modu/pull/42) on [cyteon/modu](https://github.com/cyteon/modu) (1 week ago)
 - [Add file i/o back](https://github.com/cyteon/modu/pull/41) on [cyteon/modu](https://github.com/cyteon/modu) (1 week ago)
 - [Port modu to web and redesign website](https://github.com/cyteon/modu/pull/39) on [cyteon/modu](https://github.com/cyteon/modu) (1 week ago)
 - [Improvements to helper dash](https://github.com/hackclub/flavortown/pull/1226) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
-- [Add GET /api/v1/projects/:id/devlogs](https://github.com/hackclub/flavortown/pull/1217) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
