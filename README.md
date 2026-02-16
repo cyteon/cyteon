@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (today)
 - [cyteon/hextui](https://github.com/cyteon/hextui) -  (today)
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (2 days ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (4 days ago)
 - [cyteon/flight-stalker](https://github.com/cyteon/flight-stalker) -  (1 week ago)
 - [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast interpreted programming language. (1 week ago)
