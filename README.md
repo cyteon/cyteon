@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turning-complete interpreted programming language. (today)
-- [cyteon/hextui](https://github.com/cyteon/hextui) -  (1 day ago)
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (2 days ago)
-- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (6 days ago)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turning-complete interpreted programming language. (1 day ago)
+- [cyteon/hextui](https://github.com/cyteon/hextui) -  (2 days ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (3 days ago)
+- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (1 week ago)
 - [cyteon/flight-stalker](https://github.com/cyteon/flight-stalker) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add project banners and devlog media to api](https://github.com/hackclub/flavortown/pull/1441) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
-- [type() function](https://github.com/cyteon/modu/pull/43) on [cyteon/modu](https://github.com/cyteon/modu) (2 days ago)
-- [The devlog resource was removed in an PR not related to the API at all](https://github.com/hackclub/flavortown/pull/1417) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (4 days ago)
+- [Add project banners and devlog media to api](https://github.com/hackclub/flavortown/pull/1441) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
+- [type() function](https://github.com/cyteon/modu/pull/43) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
+- [The devlog resource was removed in an PR not related to the API at all](https://github.com/hackclub/flavortown/pull/1417) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
 - [Improve objects and arrays](https://github.com/cyteon/modu/pull/42) on [cyteon/modu](https://github.com/cyteon/modu) (1 week ago)
 - [Add file i/o back](https://github.com/cyteon/modu/pull/41) on [cyteon/modu](https://github.com/cyteon/modu) (1 week ago)
