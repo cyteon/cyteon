@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add shadow bans and move project authors on helpers page](https://github.com/hackclub/flavortown/pull/1546) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Add "else if" branches](https://github.com/cyteon/modu/pull/47) on [cyteon/modu](https://github.com/cyteon/modu) (today)
 - [Add while loops](https://github.com/cyteon/modu/pull/46) on [cyteon/modu](https://github.com/cyteon/modu) (today)
 - [Better assigning](https://github.com/cyteon/modu/pull/45) on [cyteon/modu](https://github.com/cyteon/modu) (today)
 - [Big math update](https://github.com/cyteon/modu/pull/44) on [cyteon/modu](https://github.com/cyteon/modu) (today)
-- [dont notify vote deficit if user cant vote](https://github.com/hackclub/flavortown/pull/1525) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
