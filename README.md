@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add while loops](https://github.com/cyteon/modu/pull/46) on [cyteon/modu](https://github.com/cyteon/modu) (today)
+- [Better assigning](https://github.com/cyteon/modu/pull/45) on [cyteon/modu](https://github.com/cyteon/modu) (today)
 - [Big math update](https://github.com/cyteon/modu/pull/44) on [cyteon/modu](https://github.com/cyteon/modu) (today)
 - [dont notify vote deficit if user cant vote](https://github.com/hackclub/flavortown/pull/1525) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Add voting locked status to helper dash](https://github.com/hackclub/flavortown/pull/1485) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
-- [Add project banners and devlog media to api](https://github.com/hackclub/flavortown/pull/1441) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
-- [type() function](https://github.com/cyteon/modu/pull/43) on [cyteon/modu](https://github.com/cyteon/modu) (1 week ago)
