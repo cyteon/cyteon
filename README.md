@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Better objects](https://github.com/cyteon/modu/pull/51) on [cyteon/modu](https://github.com/cyteon/modu) (today)
 - [Better errors](https://github.com/cyteon/modu/pull/50) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
 - [Improve docs](https://github.com/cyteon/modu/pull/49) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
 - [Package improvements](https://github.com/cyteon/modu/pull/48) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
 - [Move project authors on helpers page](https://github.com/hackclub/flavortown/pull/1546) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
-- [Add "else if" branches](https://github.com/cyteon/modu/pull/47) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
