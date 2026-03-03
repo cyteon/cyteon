@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (1 day ago)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (today)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (4 days ago)
 - [cyteon/not-so-verdant](https://github.com/cyteon/not-so-verdant) - a game  (1 week ago)
 - [cyteon/flight-stalker](https://github.com/cyteon/flight-stalker) -  (1 week ago)
