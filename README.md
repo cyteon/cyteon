@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (today)
 - [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (today)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (6 days ago)
 - [cyteon/not-so-verdant](https://github.com/cyteon/not-so-verdant) - a game  (1 week ago)
 - [cyteon/flight-stalker](https://github.com/cyteon/flight-stalker) -  (2 weeks ago)
-- [cyteon/hextui](https://github.com/cyteon/hextui) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
