@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Automatic help notes](https://github.com/cyteon/modu/pull/53) on [cyteon/modu](https://github.com/cyteon/modu) (today)
+- [Add old.hackclub.app](https://github.com/hackclub/dns/pull/2516) on [hackclub/dns](https://github.com/hackclub/dns) (today)
 - [Add assigning on indexes and properties](https://github.com/cyteon/modu/pull/52) on [cyteon/modu](https://github.com/cyteon/modu) (today)
 - [Better objects](https://github.com/cyteon/modu/pull/51) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
 - [Better errors](https://github.com/cyteon/modu/pull/50) on [cyteon/modu](https://github.com/cyteon/modu) (5 days ago)
-- [Improve docs](https://github.com/cyteon/modu/pull/49) on [cyteon/modu](https://github.com/cyteon/modu) (5 days ago)
-- [Package improvements](https://github.com/cyteon/modu/pull/48) on [cyteon/modu](https://github.com/cyteon/modu) (5 days ago)
