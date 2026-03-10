@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Modu 3.0.0](https://github.com/cyteon/modu/pull/56) on [cyteon/modu](https://github.com/cyteon/modu) (today)
 - [Switch to stack-based scoping](https://github.com/cyteon/modu/pull/54) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
 - [Automatic help notes](https://github.com/cyteon/modu/pull/53) on [cyteon/modu](https://github.com/cyteon/modu) (5 days ago)
 - [Add old.hackclub.app](https://github.com/hackclub/dns/pull/2516) on [hackclub/dns](https://github.com/hackclub/dns) (5 days ago)
 - [Add assigning on indexes and properties](https://github.com/cyteon/modu/pull/52) on [cyteon/modu](https://github.com/cyteon/modu) (5 days ago)
-- [Better objects](https://github.com/cyteon/modu/pull/51) on [cyteon/modu](https://github.com/cyteon/modu) (1 week ago)
