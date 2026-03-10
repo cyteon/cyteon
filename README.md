@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (today)
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (3 days ago)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (4 days ago)
+- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (1 day ago)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (4 days ago)
+- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (5 days ago)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 week ago)
 - [cyteon/not-so-verdant](https://github.com/cyteon/not-so-verdant) - a game  (2 weeks ago)
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Switch to stack-based scoping](https://github.com/cyteon/modu/pull/54) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
-- [Automatic help notes](https://github.com/cyteon/modu/pull/53) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
-- [Add old.hackclub.app](https://github.com/hackclub/dns/pull/2516) on [hackclub/dns](https://github.com/hackclub/dns) (4 days ago)
-- [Add assigning on indexes and properties](https://github.com/cyteon/modu/pull/52) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
+- [Switch to stack-based scoping](https://github.com/cyteon/modu/pull/54) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
+- [Automatic help notes](https://github.com/cyteon/modu/pull/53) on [cyteon/modu](https://github.com/cyteon/modu) (5 days ago)
+- [Add old.hackclub.app](https://github.com/hackclub/dns/pull/2516) on [hackclub/dns](https://github.com/hackclub/dns) (5 days ago)
+- [Add assigning on indexes and properties](https://github.com/cyteon/modu/pull/52) on [cyteon/modu](https://github.com/cyteon/modu) (5 days ago)
 - [Better objects](https://github.com/cyteon/modu/pull/51) on [cyteon/modu](https://github.com/cyteon/modu) (1 week ago)
