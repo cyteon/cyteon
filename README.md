@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (4 days ago)
-- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (5 days ago)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (5 days ago)
+- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (6 days ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (2 weeks ago)
 - [cyteon/not-so-verdant](https://github.com/cyteon/not-so-verdant) - a game  (2 weeks ago)
@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Modu 3.0.0](https://github.com/cyteon/modu/pull/56) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
+- [Modu 3.0.0](https://github.com/cyteon/modu/pull/56) on [cyteon/modu](https://github.com/cyteon/modu) (5 days ago)
 - [Switch to stack-based scoping](https://github.com/cyteon/modu/pull/54) on [cyteon/modu](https://github.com/cyteon/modu) (1 week ago)
 - [Automatic help notes](https://github.com/cyteon/modu/pull/53) on [cyteon/modu](https://github.com/cyteon/modu) (1 week ago)
 - [Add old.hackclub.app](https://github.com/hackclub/dns/pull/2516) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
