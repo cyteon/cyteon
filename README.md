@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
-- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (today)
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (today)
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 day ago)
+- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (1 day ago)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (1 day ago)
+- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (2 days ago)
 - [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (1 week ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update better-stdlib](https://github.com/cyteon/modu/pull/59) on [cyteon/modu](https://github.com/cyteon/modu) (today)
-- [Add good runtime errors](https://github.com/cyteon/modu/pull/58) on [cyteon/modu](https://github.com/cyteon/modu) (today)
-- [Add blocking words](https://github.com/elebumm/RedditVideoMakerBot/pull/2473) on [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) (today)
-- [help cmd](https://github.com/cyteon/modu/pull/57) on [cyteon/modu](https://github.com/cyteon/modu) (2 days ago)
+- [Update better-stdlib](https://github.com/cyteon/modu/pull/59) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
+- [Add good runtime errors](https://github.com/cyteon/modu/pull/58) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
+- [Add blocking words](https://github.com/elebumm/RedditVideoMakerBot/pull/2473) on [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) (1 day ago)
+- [help cmd](https://github.com/cyteon/modu/pull/57) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
 - [Modu 3.0.0](https://github.com/cyteon/modu/pull/56) on [cyteon/modu](https://github.com/cyteon/modu) (1 week ago)
