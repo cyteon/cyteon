@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feature: add achievements to api](https://github.com/hackclub/flavortown/pull/1812) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Add OOP](https://github.com/cyteon/modu/pull/61) on [cyteon/modu](https://github.com/cyteon/modu) (today)
 - [Expand stdlib](https://github.com/cyteon/modu/pull/60) on [cyteon/modu](https://github.com/cyteon/modu) (today)
 - [Update better-stdlib](https://github.com/cyteon/modu/pull/59) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
 - [Add good runtime errors](https://github.com/cyteon/modu/pull/58) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
-- [Add blocking words](https://github.com/elebumm/RedditVideoMakerBot/pull/2473) on [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) (1 day ago)
