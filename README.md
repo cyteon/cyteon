@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feature: add a `?limit=(int < 100)` param to the api](https://github.com/hackclub/flavortown/pull/1845) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [feature: add achievements to api](https://github.com/hackclub/flavortown/pull/1812) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
 - [Add OOP](https://github.com/cyteon/modu/pull/61) on [cyteon/modu](https://github.com/cyteon/modu) (2 days ago)
 - [Expand stdlib](https://github.com/cyteon/modu/pull/60) on [cyteon/modu](https://github.com/cyteon/modu) (2 days ago)
 - [Update better-stdlib](https://github.com/cyteon/modu/pull/59) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
-- [Add good runtime errors](https://github.com/cyteon/modu/pull/58) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
