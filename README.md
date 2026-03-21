@@ -3,10 +3,10 @@
 #### 👀 What have i been working on recently?
 
 - [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (today)
+- [cyteon/polar-silence](https://github.com/cyteon/polar-silence) -  (today)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (4 days ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (5 days ago)
 - [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (1 week ago)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (2 weeks ago)
 
 #### 🌱 My latest projects
 
