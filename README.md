@@ -2,19 +2,19 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu (today)
 - [cyteon/polar-silence](https://github.com/cyteon/polar-silence) -  (1 day ago)
 - [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (1 day ago)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (5 days ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (6 days ago)
-- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (1 week ago)
 
 #### 🌱 My latest projects
 
+- [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu
 - [cyteon/hextui](https://github.com/cyteon/hextui) - 
 - [cyteon/aoc25](https://github.com/cyteon/aoc25) - 
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust
 - [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not
-- [cyteon/PlenApp](https://github.com/cyteon/PlenApp) - A free flight tracking (and more) app for android
 
 #### 🔨 My recent Pull Requests
 
