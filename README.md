@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (today)
-- [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu (today)
 - [cyteon/polar-silence](https://github.com/cyteon/polar-silence) -  (today)
+- [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu (today)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (today)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (5 days ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (6 days ago)
 
