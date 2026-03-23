@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Constants](https://github.com/cyteon/modu/pull/65) on [cyteon/modu](https://github.com/cyteon/modu) (today)
 - [Zed Extension](https://github.com/cyteon/modu/pull/64) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
 - [Bugfixes](https://github.com/cyteon/modu/pull/63) on [cyteon/modu](https://github.com/cyteon/modu) (2 days ago)
 - [New docs and improved IDE](https://github.com/cyteon/modu/pull/62) on [cyteon/modu](https://github.com/cyteon/modu) (2 days ago)
 - [feature: add a `?limit=(int < 100)` param to the api](https://github.com/hackclub/flavortown/pull/1845) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (3 days ago)
-- [feature: add achievements to api](https://github.com/hackclub/flavortown/pull/1812) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
