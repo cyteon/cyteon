@@ -3,9 +3,9 @@
 #### 👀 What have i been working on recently?
 
 - [cyteon/tof1_drone](https://github.com/cyteon/tof1_drone) - drone for a school project (today)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (today)
+- [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu (today)
 - [cyteon/polar-silence](https://github.com/cyteon/polar-silence) -  (1 day ago)
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (1 day ago)
-- [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu (1 day ago)
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ (1 week ago)
 
 #### 🌱 My latest projects
