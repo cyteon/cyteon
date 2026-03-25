@@ -3,10 +3,10 @@
 #### 👀 What have i been working on recently?
 
 - [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu (today)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (today)
 - [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (today)
 - [cyteon/polar-silence](https://github.com/cyteon/polar-silence) -  (today)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 day ago)
-- [cyteon/tof1_drone](https://github.com/cyteon/tof1_drone) - drone for a school project (1 day ago)
 
 #### 🌱 My latest projects
 
