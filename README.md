@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu (today)
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (today)
-- [cyteon/tof1_drone](https://github.com/cyteon/tof1_drone) - drone for a school project (today)
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (today)
-- [cyteon/polar-silence](https://github.com/cyteon/polar-silence) -  (today)
+- [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu (1 day ago)
+- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 day ago)
+- [cyteon/tof1_drone](https://github.com/cyteon/tof1_drone) - drone for a school project (1 day ago)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (1 day ago)
+- [cyteon/polar-silence](https://github.com/cyteon/polar-silence) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Bitwise Operations](https://github.com/cyteon/modu/pull/66) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
-- [Constants](https://github.com/cyteon/modu/pull/65) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
-- [Zed Extension](https://github.com/cyteon/modu/pull/64) on [cyteon/modu](https://github.com/cyteon/modu) (2 days ago)
-- [Bugfixes](https://github.com/cyteon/modu/pull/63) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
-- [New docs and improved IDE](https://github.com/cyteon/modu/pull/62) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
+- [Bitwise Operations](https://github.com/cyteon/modu/pull/66) on [cyteon/modu](https://github.com/cyteon/modu) (2 days ago)
+- [Constants](https://github.com/cyteon/modu/pull/65) on [cyteon/modu](https://github.com/cyteon/modu) (2 days ago)
+- [Zed Extension](https://github.com/cyteon/modu/pull/64) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
+- [Bugfixes](https://github.com/cyteon/modu/pull/63) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
+- [New docs and improved IDE](https://github.com/cyteon/modu/pull/62) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
