@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add balance history to api](https://github.com/hackclub/flavortown/pull/1926) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Bitwise Operations](https://github.com/cyteon/modu/pull/66) on [cyteon/modu](https://github.com/cyteon/modu) (2 days ago)
 - [Constants](https://github.com/cyteon/modu/pull/65) on [cyteon/modu](https://github.com/cyteon/modu) (2 days ago)
 - [Zed Extension](https://github.com/cyteon/modu/pull/64) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
 - [Bugfixes](https://github.com/cyteon/modu/pull/63) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
-- [New docs and improved IDE](https://github.com/cyteon/modu/pull/62) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
