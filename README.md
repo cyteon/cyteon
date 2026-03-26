@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (today)
 - [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu (1 day ago)
 - [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (1 day ago)
-- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (1 day ago)
 - [cyteon/polar-silence](https://github.com/cyteon/polar-silence) -  (1 day ago)
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (2 days ago)
+- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (1 day ago)
 
 #### 🌱 My latest projects
 
