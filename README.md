@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update api docs](https://github.com/hackclub/flavortown/pull/1939) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Add extending to classes](https://github.com/cyteon/modu/pull/67) on [cyteon/modu](https://github.com/cyteon/modu) (1 day ago)
 - [feat: add balance history to api](https://github.com/hackclub/flavortown/pull/1926) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
 - [Bitwise Operations](https://github.com/cyteon/modu/pull/66) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
 - [Constants](https://github.com/cyteon/modu/pull/65) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
-- [Zed Extension](https://github.com/cyteon/modu/pull/64) on [cyteon/modu](https://github.com/cyteon/modu) (4 days ago)
