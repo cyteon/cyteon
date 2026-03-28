@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 day ago)
-- [cyteon/polar-silence](https://github.com/cyteon/polar-silence) -  (1 day ago)
-- [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu (2 days ago)
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (2 days ago)
-- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (2 days ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (2 days ago)
+- [cyteon/polar-silence](https://github.com/cyteon/polar-silence) -  (2 days ago)
+- [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu (3 days ago)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (3 days ago)
+- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: nynorsk autocorrect](https://github.com/sigurdeye/Vestby-Prove/pull/4) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (today)
-- [fix: typo ignoring not working properly](https://github.com/sigurdeye/Vestby-Prove/pull/3) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (today)
-- [feat: dark mode](https://github.com/sigurdeye/Vestby-Prove/pull/2) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (today)
-- [update api docs](https://github.com/hackclub/flavortown/pull/1939) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
-- [Add extending to classes](https://github.com/cyteon/modu/pull/67) on [cyteon/modu](https://github.com/cyteon/modu) (2 days ago)
+- [feat: nynorsk autocorrect](https://github.com/sigurdeye/Vestby-Prove/pull/4) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (1 day ago)
+- [fix: typo ignoring not working properly](https://github.com/sigurdeye/Vestby-Prove/pull/3) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (1 day ago)
+- [feat: dark mode](https://github.com/sigurdeye/Vestby-Prove/pull/2) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (1 day ago)
+- [update api docs](https://github.com/hackclub/flavortown/pull/1939) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
+- [Add extending to classes](https://github.com/cyteon/modu/pull/67) on [cyteon/modu](https://github.com/cyteon/modu) (3 days ago)
