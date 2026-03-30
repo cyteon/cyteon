@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: new api route `users/:id/projects`](https://github.com/hackclub/flavortown/pull/2000) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [feat: nynorsk autocorrect](https://github.com/sigurdeye/Vestby-Prove/pull/4) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (3 days ago)
 - [fix: typo ignoring not working properly](https://github.com/sigurdeye/Vestby-Prove/pull/3) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (3 days ago)
 - [feat: dark mode](https://github.com/sigurdeye/Vestby-Prove/pull/2) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (3 days ago)
 - [update api docs](https://github.com/hackclub/flavortown/pull/1939) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (4 days ago)
-- [Add extending to classes](https://github.com/cyteon/modu/pull/67) on [cyteon/modu](https://github.com/cyteon/modu) (5 days ago)
