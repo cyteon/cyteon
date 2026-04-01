@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (today)
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (5 days ago)
-- [cyteon/polar-silence](https://github.com/cyteon/polar-silence) -  (5 days ago)
-- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (6 days ago)
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (6 days ago)
+- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 day ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (6 days ago)
+- [cyteon/polar-silence](https://github.com/cyteon/polar-silence) -  (6 days ago)
+- [cyteon/modu-packages](https://github.com/cyteon/modu-packages) -  (1 week ago)
+- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: new api route `users/:id/projects`](https://github.com/hackclub/flavortown/pull/2000) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 day ago)
-- [feat: nynorsk autocorrect](https://github.com/sigurdeye/Vestby-Prove/pull/4) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (4 days ago)
-- [fix: typo ignoring not working properly](https://github.com/sigurdeye/Vestby-Prove/pull/3) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (4 days ago)
-- [feat: dark mode](https://github.com/sigurdeye/Vestby-Prove/pull/2) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (4 days ago)
-- [update api docs](https://github.com/hackclub/flavortown/pull/1939) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (5 days ago)
+- [feat: new api route `users/:id/projects`](https://github.com/hackclub/flavortown/pull/2000) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
+- [feat: nynorsk autocorrect](https://github.com/sigurdeye/Vestby-Prove/pull/4) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (5 days ago)
+- [fix: typo ignoring not working properly](https://github.com/sigurdeye/Vestby-Prove/pull/3) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (5 days ago)
+- [feat: dark mode](https://github.com/sigurdeye/Vestby-Prove/pull/2) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (5 days ago)
+- [update api docs](https://github.com/hackclub/flavortown/pull/1939) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (6 days ago)
