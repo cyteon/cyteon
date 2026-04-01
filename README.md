@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: "This project uses AI" visible for projects that don't use AI](https://github.com/hackclub/flavortown/pull/2029) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Add McDonald's theme: golden arches color scheme and falling fries](https://github.com/hackclub/flavortown/pull/2027) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (today)
 - [Add McDonald's theme: golden arches color scheme and falling fries](https://github.com/cyteon/flavortown/pull/1) on [cyteon/flavortown](https://github.com/cyteon/flavortown) (today)
 - [feat: new api route `users/:id/projects`](https://github.com/hackclub/flavortown/pull/2000) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (2 days ago)
 - [feat: nynorsk autocorrect](https://github.com/sigurdeye/Vestby-Prove/pull/4) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (5 days ago)
-- [fix: typo ignoring not working properly](https://github.com/sigurdeye/Vestby-Prove/pull/3) on [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) (5 days ago)
