@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add status.hackclub.app](https://github.com/hackclub/dns/pull/2773) on [hackclub/dns](https://github.com/hackclub/dns) (today)
+- [Add status.hackclub.app](https://github.com/hackclub/dns/pull/2772) on [hackclub/dns](https://github.com/hackclub/dns) (today)
 - [Add base of support for multiple ssh keys](https://github.com/dispherical/mocinno/pull/3) on [dispherical/mocinno](https://github.com/dispherical/mocinno) (1 day ago)
 - [Add server stats to the admin dash](https://github.com/dispherical/mocinno/pull/2) on [dispherical/mocinno](https://github.com/dispherical/mocinno) (1 day ago)
 - [Add `.env.example`](https://github.com/dispherical/mocinno/pull/1) on [dispherical/mocinno](https://github.com/dispherical/mocinno) (1 day ago)
-- [Update the nest website (partially)](https://github.com/hackclub/nest/pull/150) on [hackclub/nest](https://github.com/hackclub/nest) (1 day ago)
-- [filter by cooked in gallery](https://github.com/hackclub/flavortown/pull/2032) on [hackclub/flavortown](https://github.com/hackclub/flavortown) (1 week ago)
