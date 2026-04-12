@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
+- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (today)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (today)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (3 days ago)
-- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (3 days ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (6 days ago)
 - [cyteon/aoc25](https://github.com/cyteon/aoc25) -  (6 days ago)
 
