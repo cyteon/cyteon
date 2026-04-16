@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (today)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (today)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (today)
+- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (today)
 - [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) - Minimalist, secure, and privacy-focused writing tool for school assignments. Designed for Safe Exam Browser (SEB). (today)
-- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS with bun sqlite. Batteries Included (1 day ago)
+- [hackclub/nephthys](https://github.com/hackclub/nephthys) - Support bot for the Hack Club Slack (today)
 
 #### 🌱 My latest projects
 
