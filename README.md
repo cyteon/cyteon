@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (today)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (today)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 day ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (2 days ago)
-- [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) - Minimalist, secure, and privacy-focused writing tool for school assignments. Designed for Safe Exam Browser (SEB). (2 days ago)
 - [hackclub/nephthys](https://github.com/hackclub/nephthys) - Support bot for the Hack Club Slack (2 days ago)
+- [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) - Minimalist, secure, and privacy-focused writing tool for school assignments. Designed for Safe Exam Browser (SEB). (2 days ago)
 
 #### 🌱 My latest projects
 
