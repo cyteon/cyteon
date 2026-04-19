@@ -3,10 +3,10 @@
 #### 👀 What have i been working on recently?
 
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (today)
-- [dispherical/nest-takeout](https://github.com/dispherical/nest-takeout) -  (1 day ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 day ago)
+- [dispherical/nest-takeout](https://github.com/dispherical/nest-takeout) -  (1 day ago)
+- [hackclub/nephthys](https://github.com/hackclub/nephthys) - Support bot for the Hack Club Slack (3 days ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (3 days ago)
-- [sigurdeye/Vestby-Prove](https://github.com/sigurdeye/Vestby-Prove) - Minimalist, secure, and privacy-focused writing tool for school assignments. Designed for Safe Exam Browser (SEB). (3 days ago)
 
 #### 🌱 My latest projects
 
