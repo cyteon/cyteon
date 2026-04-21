@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [update nest ip](https://github.com/hackclub/dns/pull/2825) on [hackclub/dns](https://github.com/hackclub/dns) (today)
 - [add export.hackclub.app](https://github.com/hackclub/dns/pull/2816) on [hackclub/dns](https://github.com/hackclub/dns) (3 days ago)
 - [add export.hackclub.app](https://github.com/hackclub/dns/pull/2815) on [hackclub/dns](https://github.com/hackclub/dns) (3 days ago)
 - [Route dmarc reports to dmarc@hackclub.app](https://github.com/hackclub/dns/pull/2814) on [hackclub/dns](https://github.com/hackclub/dns) (3 days ago)
 - [purelymail records for nest](https://github.com/hackclub/dns/pull/2805) on [hackclub/dns](https://github.com/hackclub/dns) (4 days ago)
-- [change hackclub.app to purelymail](https://github.com/hackclub/dns/pull/2804) on [hackclub/dns](https://github.com/hackclub/dns) (4 days ago)
