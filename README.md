@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (today)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (today)
-- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (2 days ago)
-- [dispherical/nest-takeout](https://github.com/dispherical/nest-takeout) -  (3 days ago)
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (5 days ago)
+- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 day ago)
+- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 day ago)
+- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (3 days ago)
+- [dispherical/nest-takeout](https://github.com/dispherical/nest-takeout) -  (4 days ago)
+- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update nest ip](https://github.com/hackclub/dns/pull/2825) on [hackclub/dns](https://github.com/hackclub/dns) (today)
-- [add export.hackclub.app](https://github.com/hackclub/dns/pull/2816) on [hackclub/dns](https://github.com/hackclub/dns) (3 days ago)
-- [add export.hackclub.app](https://github.com/hackclub/dns/pull/2815) on [hackclub/dns](https://github.com/hackclub/dns) (3 days ago)
-- [Route dmarc reports to dmarc@hackclub.app](https://github.com/hackclub/dns/pull/2814) on [hackclub/dns](https://github.com/hackclub/dns) (3 days ago)
-- [purelymail records for nest](https://github.com/hackclub/dns/pull/2805) on [hackclub/dns](https://github.com/hackclub/dns) (4 days ago)
+- [update nest ip](https://github.com/hackclub/dns/pull/2825) on [hackclub/dns](https://github.com/hackclub/dns) (1 day ago)
+- [add export.hackclub.app](https://github.com/hackclub/dns/pull/2816) on [hackclub/dns](https://github.com/hackclub/dns) (4 days ago)
+- [add export.hackclub.app](https://github.com/hackclub/dns/pull/2815) on [hackclub/dns](https://github.com/hackclub/dns) (4 days ago)
+- [Route dmarc reports to dmarc@hackclub.app](https://github.com/hackclub/dns/pull/2814) on [hackclub/dns](https://github.com/hackclub/dns) (4 days ago)
+- [purelymail records for nest](https://github.com/hackclub/dns/pull/2805) on [hackclub/dns](https://github.com/hackclub/dns) (5 days ago)
