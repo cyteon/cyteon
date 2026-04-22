@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (today)
 - [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (1 day ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 day ago)
-- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (3 days ago)
 - [dispherical/nest-takeout](https://github.com/dispherical/nest-takeout) -  (4 days ago)
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (6 days ago)
+- [hackclub/nephthys](https://github.com/hackclub/nephthys) - Support bot for the Hack Club Slack (6 days ago)
 
 #### 🌱 My latest projects
 
