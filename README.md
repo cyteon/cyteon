@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (today)
+- [dispherical/nest-takeout](https://github.com/dispherical/nest-takeout) -  (today)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (today)
 - [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS with bun sqlite. Batteries Included (1 day ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (3 days ago)
-- [hackclub/flavortown](https://github.com/hackclub/flavortown) - what's cooking in the hack club kitchen (6 days ago)
-- [dispherical/nest-takeout](https://github.com/dispherical/nest-takeout) -  (1 week ago)
 
 #### 🌱 My latest projects
 
