@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
-- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (3 days ago)
-- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (4 days ago)
-- [dispherical/nest-takeout](https://github.com/dispherical/nest-takeout) -  (4 days ago)
-- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS with bun sqlite. Batteries Included (5 days ago)
+- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (4 days ago)
+- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (5 days ago)
+- [dispherical/nest-takeout](https://github.com/dispherical/nest-takeout) -  (5 days ago)
+- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS with bun sqlite. Batteries Included (6 days ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 
 #### 🌱 My latest projects
@@ -21,5 +21,5 @@
 - [Remove stuff not used anymore](https://github.com/hackclub/dns/pull/2837) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
 - [Remove non-existent vercel sites from hackclub.app](https://github.com/hackclub/dns/pull/2831) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
 - [update nest ip](https://github.com/hackclub/dns/pull/2825) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
-- [add export.hackclub.app](https://github.com/hackclub/dns/pull/2816) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
-- [add export.hackclub.app](https://github.com/hackclub/dns/pull/2815) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
+- [add export.hackclub.app](https://github.com/hackclub/dns/pull/2816) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
+- [add export.hackclub.app](https://github.com/hackclub/dns/pull/2815) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
