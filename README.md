@@ -4,8 +4,8 @@
 
 - [cyteon/a](https://github.com/cyteon/a) -  (today)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (1 day ago)
-- [dispherical/nest-takeout](https://github.com/dispherical/nest-takeout) -  (1 day ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 day ago)
+- [dispherical/nest-takeout](https://github.com/dispherical/nest-takeout) -  (1 day ago)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 day ago)
 
 #### 🌱 My latest projects
