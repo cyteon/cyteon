@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/test](https://github.com/cyteon/test) -  (today)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (3 days ago)
-- [cyteon/test](https://github.com/cyteon/test) -  (4 days ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (4 days ago)
 - [cyteon/a](https://github.com/cyteon/a) -  (1 week ago)
 - [dispherical/nest-takeout](https://github.com/dispherical/nest-takeout) -  (1 week ago)
