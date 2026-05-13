@@ -2,10 +2,10 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS with bun sqlite. Batteries Included (today)
-- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 day ago)
-- [cyteon/test](https://github.com/cyteon/test) -  (2 days ago)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (6 days ago)
+- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS with bun sqlite. Batteries Included (1 day ago)
+- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (2 days ago)
+- [cyteon/test](https://github.com/cyteon/test) -  (3 days ago)
+- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 - [cyteon/a](https://github.com/cyteon/a) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [switch nest dmarc to postmark](https://github.com/hackclub/dns/pull/2870) on [hackclub/dns](https://github.com/hackclub/dns) (6 days ago)
+- [switch nest dmarc to postmark](https://github.com/hackclub/dns/pull/2870) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
 - [h](https://github.com/cyteon/a/pull/1) on [cyteon/a](https://github.com/cyteon/a) (1 week ago)
 - [Add nest.hackclub.com](https://github.com/hackclub/dns/pull/2862) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
 - [Remove stuff not used anymore](https://github.com/hackclub/dns/pull/2837) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
-- [Remove non-existent vercel sites from hackclub.app](https://github.com/hackclub/dns/pull/2831) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
+- [Remove non-existent vercel sites from hackclub.app](https://github.com/hackclub/dns/pull/2831) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
