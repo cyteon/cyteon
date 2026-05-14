@@ -4,9 +4,9 @@
 
 - [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS with bun sqlite. Batteries Included (today)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (today)
+- [cyteon/rabbit](https://github.com/cyteon/rabbit) - A small reddit clone (today)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (today)
 - [cyteon/test](https://github.com/cyteon/test) -  (4 days ago)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 
 #### 🌱 My latest projects
 
