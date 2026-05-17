@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (today)
-- [cyteon/raincloud](https://github.com/cyteon/raincloud) - An simple hobby authoritative dns server (today)
-- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (today)
-- [cyteon/rabbit](https://github.com/cyteon/rabbit) - A small reddit clone (1 day ago)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 day ago)
+- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 day ago)
+- [cyteon/raincloud](https://github.com/cyteon/raincloud) - An simple hobby authoritative dns server (1 day ago)
+- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (1 day ago)
+- [cyteon/rabbit](https://github.com/cyteon/rabbit) - A small reddit clone (2 days ago)
+- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Move nest uptimekuma](https://github.com/hackclub/dns/pull/2912) on [hackclub/dns](https://github.com/hackclub/dns) (1 day ago)
+- [Move nest uptimekuma](https://github.com/hackclub/dns/pull/2912) on [hackclub/dns](https://github.com/hackclub/dns) (2 days ago)
 - [switch nest dmarc to postmark](https://github.com/hackclub/dns/pull/2870) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
-- [h](https://github.com/cyteon/a/pull/1) on [cyteon/a](https://github.com/cyteon/a) (1 week ago)
+- [h](https://github.com/cyteon/a/pull/1) on [cyteon/a](https://github.com/cyteon/a) (2 weeks ago)
 - [Add nest.hackclub.com](https://github.com/hackclub/dns/pull/2862) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
 - [Remove stuff not used anymore](https://github.com/hackclub/dns/pull/2837) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
