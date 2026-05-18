@@ -5,8 +5,8 @@
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - An simple hobby authoritative dns server (today)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (2 days ago)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (2 days ago)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (3 days ago)
 - [cyteon/rabbit](https://github.com/cyteon/rabbit) - A small reddit clone (3 days ago)
+- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (3 days ago)
 
 #### 🌱 My latest projects
 
