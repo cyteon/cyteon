@@ -10,11 +10,11 @@
 
 #### 🌱 My latest projects
 
+- [cyteon/raincloud](https://github.com/cyteon/raincloud) - An simple hobby authoritative dns server
 - [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu
 - [cyteon/hextui](https://github.com/cyteon/hextui) - 
 - [cyteon/aoc25](https://github.com/cyteon/aoc25) - 
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust
-- [cyteon/battery-invaders](https://github.com/cyteon/battery-invaders) - silly game cause why not
 
 #### 🔨 My recent Pull Requests
 
