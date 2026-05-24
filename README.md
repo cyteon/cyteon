@@ -3,10 +3,10 @@
 #### 👀 What have i been working on recently?
 
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - An simple hobby authoritative dns server (today)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (today)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (5 days ago)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (1 week ago)
 - [cyteon/rabbit](https://github.com/cyteon/rabbit) - A small reddit clone (1 week ago)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 
 #### 🌱 My latest projects
 
