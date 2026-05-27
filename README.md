@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add nest game node](https://github.com/hackclub/dns/pull/2952) on [hackclub/dns](https://github.com/hackclub/dns) (today)
+- [stupid github bot](https://github.com/hackclub/dns/pull/2950) on [hackclub/dns](https://github.com/hackclub/dns) (today)
+- [Add nest game wing](https://github.com/hackclub/dns/pull/2949) on [hackclub/dns](https://github.com/hackclub/dns) (today)
 - [Move nest uptimekuma](https://github.com/hackclub/dns/pull/2912) on [hackclub/dns](https://github.com/hackclub/dns) (1 week ago)
 - [switch nest dmarc to postmark](https://github.com/hackclub/dns/pull/2870) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
-- [h](https://github.com/cyteon/a/pull/1) on [cyteon/a](https://github.com/cyteon/a) (3 weeks ago)
-- [Add nest.hackclub.com](https://github.com/hackclub/dns/pull/2862) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
-- [Remove stuff not used anymore](https://github.com/hackclub/dns/pull/2837) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
