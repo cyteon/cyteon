@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/raincloud](https://github.com/cyteon/raincloud) - An simple hobby authoritative dns server (2 days ago)
+- [cyteon/raincloud](https://github.com/cyteon/raincloud) - An simple hobby authoritative dns server (today)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (3 days ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (6 days ago)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 week ago)
