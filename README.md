@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/raincloud](https://github.com/cyteon/raincloud) - An simple hobby authoritative dns server (today)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (3 days ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (6 days ago)
+- [cyteon/raincloud](https://github.com/cyteon/raincloud) - An simple hobby authoritative dns server (1 day ago)
+- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (4 days ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 week ago)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (2 weeks ago)
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add nest game node](https://github.com/hackclub/dns/pull/2952) on [hackclub/dns](https://github.com/hackclub/dns) (3 days ago)
-- [stupid github bot](https://github.com/hackclub/dns/pull/2950) on [hackclub/dns](https://github.com/hackclub/dns) (3 days ago)
-- [Add nest game wing](https://github.com/hackclub/dns/pull/2949) on [hackclub/dns](https://github.com/hackclub/dns) (3 days ago)
+- [Add nest game node](https://github.com/hackclub/dns/pull/2952) on [hackclub/dns](https://github.com/hackclub/dns) (4 days ago)
+- [stupid github bot](https://github.com/hackclub/dns/pull/2950) on [hackclub/dns](https://github.com/hackclub/dns) (4 days ago)
+- [Add nest game wing](https://github.com/hackclub/dns/pull/2949) on [hackclub/dns](https://github.com/hackclub/dns) (4 days ago)
 - [Move nest uptimekuma](https://github.com/hackclub/dns/pull/2912) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
 - [switch nest dmarc to postmark](https://github.com/hackclub/dns/pull/2870) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
