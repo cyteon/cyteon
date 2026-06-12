@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (today)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (today)
 - [cyteon/poopymarket](https://github.com/cyteon/poopymarket) -  (1 day ago)
-- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (5 days ago)
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - An simple hobby authoritative dns server (5 days ago)
-- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (1 week ago)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (2 weeks ago)
+- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (5 days ago)
 
 #### 🌱 My latest projects
 
