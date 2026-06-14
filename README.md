@@ -3,8 +3,8 @@
 #### 👀 What have i been working on recently?
 
 - [cyteon/poopymarket](https://github.com/cyteon/poopymarket) -  (today)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (2 days ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (2 days ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (2 days ago)
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - An simple hobby authoritative dns server (1 week ago)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 week ago)
 
