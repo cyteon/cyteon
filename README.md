@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/poopymarket](https://github.com/cyteon/poopymarket) -  (today)
-- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (4 days ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (4 days ago)
+- [cyteon/poopymarket](https://github.com/cyteon/poopymarket) -  (1 day ago)
+- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (5 days ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (5 days ago)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 week ago)
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - An simple hobby authoritative dns server (1 week ago)
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add nest game node](https://github.com/hackclub/dns/pull/2952) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
-- [stupid github bot](https://github.com/hackclub/dns/pull/2950) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
-- [Add nest game wing](https://github.com/hackclub/dns/pull/2949) on [hackclub/dns](https://github.com/hackclub/dns) (2 weeks ago)
+- [Add nest game node](https://github.com/hackclub/dns/pull/2952) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
+- [stupid github bot](https://github.com/hackclub/dns/pull/2950) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
+- [Add nest game wing](https://github.com/hackclub/dns/pull/2949) on [hackclub/dns](https://github.com/hackclub/dns) (3 weeks ago)
 - [Move nest uptimekuma](https://github.com/hackclub/dns/pull/2912) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [switch nest dmarc to postmark](https://github.com/hackclub/dns/pull/2870) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
