@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/raincloud](https://github.com/cyteon/raincloud) - An simple hobby authoritative dns server (today)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 day ago)
 - [cyteon/proxmox-mcp](https://github.com/cyteon/proxmox-mcp) - A MCP server for Proxmox VE (1 day ago)
-- [cyteon/raincloud](https://github.com/cyteon/raincloud) - An simple hobby authoritative dns server (1 day ago)
 - [cyteon/poopymarket](https://github.com/cyteon/poopymarket) - A simple prediction market using fake money and LMSR math (4 days ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
 
