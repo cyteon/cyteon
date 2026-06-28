@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server (today)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (1 day ago)
-- [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server (1 day ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (2 days ago)
 - [cyteon/proxmox-mcp](https://github.com/cyteon/proxmox-mcp) - A MCP server for Proxmox VE (2 days ago)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (4 days ago)
