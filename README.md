@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (today)
+- [cyteon/proxmox-mcp](https://github.com/cyteon/proxmox-mcp) - A MCP server for Proxmox VE (today)
 - [cyteon/poopymarket](https://github.com/cyteon/poopymarket) - A simple prediction market using fake money and LMSR math (1 day ago)
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server (3 days ago)
 - [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS with bun sqlite. Batteries Included (4 days ago)
-- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (5 days ago)
-- [cyteon/proxmox-mcp](https://github.com/cyteon/proxmox-mcp) - A MCP server for Proxmox VE (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [V3](https://github.com/cyteon/discord_gleam/pull/31) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (today)
 - [Add nest game node](https://github.com/hackclub/dns/pull/2952) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [stupid github bot](https://github.com/hackclub/dns/pull/2950) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [Add nest game wing](https://github.com/hackclub/dns/pull/2949) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [Move nest uptimekuma](https://github.com/hackclub/dns/pull/2912) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
-- [switch nest dmarc to postmark](https://github.com/hackclub/dns/pull/2870) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
