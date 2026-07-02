@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (today)
 - [cyteon/proxmox-mcp](https://github.com/cyteon/proxmox-mcp) - A MCP server for Proxmox VE (today)
+- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (today)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (today)
 - [cyteon/poopymarket](https://github.com/cyteon/poopymarket) - A simple prediction market using fake money and LMSR math (1 day ago)
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server (3 days ago)
-- [cyteon/the-watcher](https://github.com/cyteon/the-watcher) - An uptime monitor built in SolidJS with bun sqlite. Batteries Included (4 days ago)
 
 #### 🌱 My latest projects
 
