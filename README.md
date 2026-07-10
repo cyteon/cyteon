@@ -6,7 +6,7 @@
 - [cyteon/catos](https://github.com/cyteon/catos) - A small AMD64 kernel written in Rust. (today)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (5 days ago)
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server (5 days ago)
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (6 days ago)
+- [cyteon/poopymarket](https://github.com/cyteon/poopymarket) - A simple prediction market using fake money and LMSR math (6 days ago)
 
 #### 🌱 My latest projects
 
