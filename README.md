@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/catos](https://github.com/cyteon/catos) - A small AMD64 kernel written in Rust. (today)
+- [cyteon/catos](https://github.com/cyteon/catos) - A small AMD64 OS that can run doom (today)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (4 days ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server (1 week ago)
