@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/catos](https://github.com/cyteon/catos) - A small AMD64 OS that can run doom (1 day ago)
-- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (5 days ago)
+- [cyteon/catos](https://github.com/cyteon/catos) - A small AMD64 OS that can run doom (2 days ago)
+- [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (6 days ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server (1 week ago)
 - [cyteon/poopymarket](https://github.com/cyteon/poopymarket) - A simple prediction market using fake money and LMSR math (1 week ago)
@@ -19,7 +19,7 @@
 #### 🔨 My recent Pull Requests
 
 - [v3.1.0](https://github.com/cyteon/discord_gleam/pull/32) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (1 week ago)
-- [V3](https://github.com/cyteon/discord_gleam/pull/31) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (1 week ago)
+- [V3](https://github.com/cyteon/discord_gleam/pull/31) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (2 weeks ago)
 - [Add nest game node](https://github.com/hackclub/dns/pull/2952) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [stupid github bot](https://github.com/hackclub/dns/pull/2950) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [Add nest game wing](https://github.com/hackclub/dns/pull/2949) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
