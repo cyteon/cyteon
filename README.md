@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (today)
 - [cyteon/catos](https://github.com/cyteon/catos) - A small AMD64 OS that can run doom (1 day ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server implementation in rust (1 week ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (2 weeks ago)
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server (2 weeks ago)
-- [cyteon/modu](https://github.com/cyteon/modu) - Modu is a simple and fast turing-complete interpreted programming language. (2 weeks ago)
 
 #### 🌱 My latest projects
 
