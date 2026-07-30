@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (6 days ago)
+- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 week ago)
 - [cyteon/catos](https://github.com/cyteon/catos) - A small AMD64 OS that can run doom (1 week ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server reimplementation in rust (2 weeks ago)
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server (3 weeks ago)
@@ -19,7 +19,7 @@
 #### 🔨 My recent Pull Requests
 
 - [v3.1.0](https://github.com/cyteon/discord_gleam/pull/32) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (3 weeks ago)
-- [V3](https://github.com/cyteon/discord_gleam/pull/31) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (3 weeks ago)
+- [V3](https://github.com/cyteon/discord_gleam/pull/31) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (4 weeks ago)
 - [Add nest game node](https://github.com/hackclub/dns/pull/2952) on [hackclub/dns](https://github.com/hackclub/dns) (2 months ago)
 - [stupid github bot](https://github.com/hackclub/dns/pull/2950) on [hackclub/dns](https://github.com/hackclub/dns) (2 months ago)
 - [Add nest game wing](https://github.com/hackclub/dns/pull/2949) on [hackclub/dns](https://github.com/hackclub/dns) (2 months ago)
