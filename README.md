@@ -5,8 +5,8 @@
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 week ago)
 - [cyteon/catos](https://github.com/cyteon/catos) - A small AMD64 OS that can run doom (1 week ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server reimplementation in rust (3 weeks ago)
-- [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server (3 weeks ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (3 weeks ago)
+- [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server (4 weeks ago)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [v3.1.0](https://github.com/cyteon/discord_gleam/pull/32) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (3 weeks ago)
+- [v3.1.0](https://github.com/cyteon/discord_gleam/pull/32) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (4 weeks ago)
 - [V3](https://github.com/cyteon/discord_gleam/pull/31) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (1 month ago)
 - [Add nest game node](https://github.com/hackclub/dns/pull/2952) on [hackclub/dns](https://github.com/hackclub/dns) (2 months ago)
 - [stupid github bot](https://github.com/hackclub/dns/pull/2950) on [hackclub/dns](https://github.com/hackclub/dns) (2 months ago)
