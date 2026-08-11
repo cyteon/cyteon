@@ -3,7 +3,7 @@
 #### 👀 What have i been working on recently?
 
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (2 weeks ago)
-- [cyteon/catos](https://github.com/cyteon/catos) - A small AMD64 OS that can run doom (2 weeks ago)
+- [cyteon/catos](https://github.com/cyteon/catos) - A small AMD64 OS that can run doom (3 weeks ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server reimplementation in rust (1 month ago)
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server (1 month ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 month ago)
