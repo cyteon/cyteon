@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
+- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (today)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (1 day ago)
 - [cyteon/cleartext](https://github.com/cyteon/cleartext) -  (1 day ago)
-- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (4 weeks ago)
 - [cyteon/catos](https://github.com/cyteon/catos) - A small AMD64 OS that can run doom (1 month ago)
 - [cyteon/mist](https://github.com/cyteon/mist) - A minecraft server reimplementation in rust (1 month ago)
 
