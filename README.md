@@ -2,19 +2,19 @@
 
 #### 👀 What have i been working on recently?
 
+- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (today)
 - [cyteon/cleartext](https://github.com/cyteon/cleartext) -  (today)
 - [cyteon/flighty-api](https://github.com/cyteon/flighty-api) -  (1 day ago)
-- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (2 days ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (3 days ago)
 - [cyteon/catos](https://github.com/cyteon/catos) - A small AMD64 OS that can run doom (1 month ago)
 
 #### 🌱 My latest projects
 
+- [cyteon/cleartext](https://github.com/cyteon/cleartext) - 
 - [cyteon/proxmox-mcp](https://github.com/cyteon/proxmox-mcp) - A MCP server for Proxmox VE
 - [cyteon/poopymarket](https://github.com/cyteon/poopymarket) - A simple prediction market using fake money and LMSR math
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server
 - [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu
-- [cyteon/hextui](https://github.com/cyteon/hextui) - 
 
 #### 🔨 My recent Pull Requests
 
