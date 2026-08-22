@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/cleartext](https://github.com/cyteon/cleartext) -  (today)
 - [cyteon/flighty-api](https://github.com/cyteon/flighty-api) -  (1 day ago)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (2 days ago)
-- [cyteon/cleartext](https://github.com/cyteon/cleartext) -  (3 days ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (3 days ago)
 - [cyteon/catos](https://github.com/cyteon/catos) - A small AMD64 OS that can run doom (1 month ago)
 
