@@ -2,7 +2,7 @@
 
 #### 👀 What have i been working on recently?
 
-- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (2 days ago)
+- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (today)
 - [cyteon/cleartext](https://github.com/cyteon/cleartext) -  (2 days ago)
 - [cyteon/flighty-api](https://github.com/cyteon/flighty-api) -  (3 days ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (5 days ago)
