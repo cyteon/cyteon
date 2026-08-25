@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
+- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (today)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (today)
-- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 day ago)
 - [cyteon/cleartext](https://github.com/cyteon/cleartext) -  (3 days ago)
 - [cyteon/flighty-api](https://github.com/cyteon/flighty-api) -  (4 days ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (6 days ago)
