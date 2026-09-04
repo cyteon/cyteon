@@ -5,7 +5,7 @@
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 week ago)
 - [cyteon/cleartext](https://github.com/cyteon/cleartext) -  (1 week ago)
-- [cyteon/flighty-api](https://github.com/cyteon/flighty-api) -  (1 week ago)
+- [cyteon/flighty-api](https://github.com/cyteon/flighty-api) -  (2 weeks ago)
 - [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (2 weeks ago)
 
 #### 🌱 My latest projects
