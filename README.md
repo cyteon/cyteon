@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (2 weeks ago)
+- [cyteon/potato-panel](https://github.com/cyteon/potato-panel) -  (today)
+- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (today)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (2 weeks ago)
+- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (2 weeks ago)
 - [cyteon/cleartext](https://github.com/cyteon/cleartext) -  (2 weeks ago)
-- [cyteon/flighty-api](https://github.com/cyteon/flighty-api) -  (2 weeks ago)
-- [cyteon/potatobot](https://github.com/cyteon/potatobot) - The best AIO bot on Discord. (3 weeks ago)
 
 #### 🌱 My latest projects
 
