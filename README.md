@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/potato-panel](https://github.com/cyteon/potato-panel) -  (1 day ago)
-- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (1 day ago)
+- [cyteon/potato-panel](https://github.com/cyteon/potato-panel) -  (2 days ago)
+- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (2 days ago)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (2 weeks ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (2 weeks ago)
 - [cyteon/cleartext](https://github.com/cyteon/cleartext) -  (2 weeks ago)
