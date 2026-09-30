@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
-- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (5 days ago)
-- [cyteon/potato-panel](https://github.com/cyteon/potato-panel) -  (2 weeks ago)
+- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (6 days ago)
+- [cyteon/potato-panel](https://github.com/cyteon/potato-panel) -  (3 weeks ago)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 month ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 month ago)
 - [cyteon/cleartext](https://github.com/cyteon/cleartext) -  (1 month ago)
@@ -21,5 +21,5 @@
 - [Nest email updates](https://github.com/hackclub/dns/pull/3486) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [Add 6 records: mx.user.hackclub.app, user.hackclub.app, v1-rsa-20260824._domainkey.user.hackclub.app +2 more](https://github.com/hackclub/dns/pull/3479) on [hackclub/dns](https://github.com/hackclub/dns) (1 month ago)
 - [v3.1.0](https://github.com/cyteon/discord_gleam/pull/32) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (2 months ago)
-- [V3](https://github.com/cyteon/discord_gleam/pull/31) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (2 months ago)
+- [V3](https://github.com/cyteon/discord_gleam/pull/31) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (3 months ago)
 - [Add nest game node](https://github.com/hackclub/dns/pull/2952) on [hackclub/dns](https://github.com/hackclub/dns) (4 months ago)
