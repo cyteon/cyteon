@@ -10,11 +10,11 @@
 
 #### 🌱 My latest projects
 
+- [cyteon/aatc](https://github.com/cyteon/aatc) - advanced atc for msfs20
 - [cyteon/cleartext](https://github.com/cyteon/cleartext) - 
 - [cyteon/proxmox-mcp](https://github.com/cyteon/proxmox-mcp) - A MCP server for Proxmox VE
 - [cyteon/poopymarket](https://github.com/cyteon/poopymarket) - A simple prediction market using fake money and LMSR math
 - [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server
-- [cyteon/tree-sitter-modu](https://github.com/cyteon/tree-sitter-modu) - Tree-Sitter grammar for modu
 
 #### 🔨 My recent Pull Requests
 
