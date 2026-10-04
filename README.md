@@ -2,19 +2,19 @@
 
 #### 👀 What have i been working on recently?
 
+- [cyteon/GrandTheftMinecraft](https://github.com/cyteon/GrandTheftMinecraft) - Minecraft in GTA 5 (yes its vibecoded) (today)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (1 week ago)
 - [cyteon/potato-panel](https://github.com/cyteon/potato-panel) -  (3 weeks ago)
 - [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 month ago)
 - [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 month ago)
-- [cyteon/cleartext](https://github.com/cyteon/cleartext) -  (1 month ago)
 
 #### 🌱 My latest projects
 
+- [cyteon/GrandTheftMinecraft](https://github.com/cyteon/GrandTheftMinecraft) - Minecraft in GTA 5 (yes its vibecoded)
 - [cyteon/aatc](https://github.com/cyteon/aatc) - advanced atc for msfs20
 - [cyteon/cleartext](https://github.com/cyteon/cleartext) - 
 - [cyteon/proxmox-mcp](https://github.com/cyteon/proxmox-mcp) - A MCP server for Proxmox VE
 - [cyteon/poopymarket](https://github.com/cyteon/poopymarket) - A simple prediction market using fake money and LMSR math
-- [cyteon/raincloud](https://github.com/cyteon/raincloud) - A simple hobby authoritative dns server
 
 #### 🔨 My recent Pull Requests
 
