@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
+- [AegisNotes/web](https://github.com/AegisNotes/web) -  (today)
+- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (today)
 - [cyteon/GrandTheftMinecraft](https://github.com/cyteon/GrandTheftMinecraft) - Minecraft in GTA 5 (yes its vibecoded) (3 days ago)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (1 week ago)
 - [cyteon/potato-panel](https://github.com/cyteon/potato-panel) -  (4 weeks ago)
-- [dispherical/mocinno](https://github.com/dispherical/mocinno) - nest manager thingy (1 month ago)
-- [hackclub/dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 month ago)
 
 #### 🌱 My latest projects
 
