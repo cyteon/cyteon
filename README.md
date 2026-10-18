@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/chip8](https://github.com/cyteon/chip8) - Chip-8 emulator in rust (2 days ago)
+- [cyteon/chip8](https://github.com/cyteon/chip8) - Chip-8 emulator in rust (3 days ago)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (1 week ago)
 - [AegisNotes/web](https://github.com/AegisNotes/web) -  (1 week ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 week ago)
-- [cyteon/GrandTheftMinecraft](https://github.com/cyteon/GrandTheftMinecraft) - Minecraft in GTA 5 (yes its vibecoded) (1 week ago)
+- [cyteon/GrandTheftMinecraft](https://github.com/cyteon/GrandTheftMinecraft) - Minecraft in GTA 5 (yes its vibecoded) (2 weeks ago)
 
 #### 🌱 My latest projects
 
