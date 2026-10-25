@@ -6,7 +6,7 @@
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (2 weeks ago)
 - [AegisNotes/web](https://github.com/AegisNotes/web) -  (2 weeks ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (2 weeks ago)
-- [cyteon/GrandTheftMinecraft](https://github.com/cyteon/GrandTheftMinecraft) - Minecraft in GTA 5 (yes its vibecoded) (2 weeks ago)
+- [cyteon/GrandTheftMinecraft](https://github.com/cyteon/GrandTheftMinecraft) - Minecraft in GTA 5 (yes its vibecoded) (3 weeks ago)
 
 #### 🌱 My latest projects
 
