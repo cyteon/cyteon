@@ -2,11 +2,11 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/accord](https://github.com/cyteon/accord) -  (1 day ago)
+- [cyteon/accord](https://github.com/cyteon/accord) -  (today)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (1 week ago)
 - [cyteon/chip8](https://github.com/cyteon/chip8) - Chip-8 emulator in rust (2 weeks ago)
-- [AegisNotes/web](https://github.com/AegisNotes/web) -  (4 weeks ago)
 - [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (4 weeks ago)
+- [AegisNotes/web](https://github.com/AegisNotes/web) -  (4 weeks ago)
 
 #### 🌱 My latest projects
 
