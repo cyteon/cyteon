@@ -2,8 +2,8 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/skerry](https://github.com/cyteon/skerry) - A mini x86-64 kernel written in scratch from rust (today)
-- [cyteon/accord](https://github.com/cyteon/accord) -  (1 day ago)
+- [cyteon/skerry](https://github.com/cyteon/skerry) - A mini x86-64 kernel written in scratch from rust (1 day ago)
+- [cyteon/accord](https://github.com/cyteon/accord) -  (2 days ago)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (3 weeks ago)
 - [cyteon/chip8](https://github.com/cyteon/chip8) - Chip-8 emulator in rust (1 month ago)
 - [AegisNotes/web](https://github.com/AegisNotes/web) -  (1 month ago)
