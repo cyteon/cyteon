@@ -6,7 +6,7 @@
 - [cyteon/accord](https://github.com/cyteon/accord) -  (1 week ago)
 - [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (4 weeks ago)
 - [cyteon/chip8](https://github.com/cyteon/chip8) - Chip-8 emulator in rust (1 month ago)
-- [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) - A library to create discord bots in gleam (1 month ago)
+- [AegisNotes/web](https://github.com/AegisNotes/web) -  (1 month ago)
 
 #### 🌱 My latest projects
 
