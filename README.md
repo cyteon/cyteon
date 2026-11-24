@@ -2,9 +2,9 @@
 
 #### 👀 What have i been working on recently?
 
-- [cyteon/skerry](https://github.com/cyteon/skerry) - A mini x86-64 kernel written in scratch from rust (today)
+- [cyteon/skerry](https://github.com/cyteon/skerry) - A mini x86-64 kernel written in scratch from rust (1 day ago)
 - [cyteon/accord](https://github.com/cyteon/accord) -  (1 week ago)
-- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (4 weeks ago)
+- [hackclub/nest](https://github.com/hackclub/nest) - Free, powerful, and versatile compute infrastructure for all high school hackers! (1 month ago)
 - [cyteon/chip8](https://github.com/cyteon/chip8) - Chip-8 emulator in rust (1 month ago)
 - [AegisNotes/web](https://github.com/AegisNotes/web) -  (1 month ago)
 
@@ -18,7 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Block clients from setting verification_status and slack_id](https://github.com/hackclub/nest/pull/179) on [hackclub/nest](https://github.com/hackclub/nest) (4 weeks ago)
+- [Block clients from setting verification_status and slack_id](https://github.com/hackclub/nest/pull/179) on [hackclub/nest](https://github.com/hackclub/nest) (1 month ago)
 - [Nest email updates](https://github.com/hackclub/dns/pull/3486) on [hackclub/dns](https://github.com/hackclub/dns) (3 months ago)
 - [Add 6 records: mx.user.hackclub.app, user.hackclub.app, v1-rsa-20260824._domainkey.user.hackclub.app +2 more](https://github.com/hackclub/dns/pull/3479) on [hackclub/dns](https://github.com/hackclub/dns) (3 months ago)
 - [v3.1.0](https://github.com/cyteon/discord_gleam/pull/32) on [cyteon/discord_gleam](https://github.com/cyteon/discord_gleam) (4 months ago)
